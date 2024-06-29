@@ -1,23 +1,26 @@
-export const bulkDownloads = async (urls, save, concurrency = 3) => {
+
+//urls is an array of objects of type {keyName:string, url:string}
+
+export const bulkDownloads = async (dataObjects, save, concurrency = 3) => {
     //for each entry in urls, call fetch
     //after getting the data, call save using the url as the key
 
     let counter = 0;
 
-    const currentConcurrency = urls.length < concurrency ? urls.length : concurrency;
+    const currentConcurrency = dataObjects.length < concurrency ? dataObjects.length : concurrency;
 
 
     const action = () => {
         let i = counter++;
 
-        const currentUrl = urls[i];
+        const currentUrl = dataObjects[i];
 
-        return fetch(currentUrl).then((result) => {
-            return save(currentUrl, result);
+        return fetch(currentUrl.url).then((result) => {
+            return save(currentUrl.key, result);
         }).catch(error => {
-            return save(currentUrl, error);
+            return save(currentUrl.key, error);
         }).finally(() => {
-            if (urls.length - 1 - i < currentConcurrency) {
+            if (dataObjects.length - 1 - i < currentConcurrency) {
                 return;
             } else { return action(); }
         })

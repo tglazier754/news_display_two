@@ -1,31 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import { useRef, useState, useEffect } from 'react';
-import { bulkDownloads } from "./utils/downloads";
+import { useBulkDownload } from './hooks/useBulkDownload';
 
 function App() {
 
-  //use a ref for the data store so that it remains across re-renders
-  const dataStore = useRef({});
-  const [store, setStore] = useState(dataStore.current);
-
-  //this save function updating the store state here causes a re-render
-  const save = (key, value) => {
-    dataStore.current = { ...dataStore.current, [key]: value };
-    setStore(
-      dataStore.current
-    );
-  }
-
-  useEffect(() => {
-    bulkDownloads(
-      [
-        { key: "weather", url: "https://jsonplaceholder.typicode.com/todos/1" },
-        { key: "sports", url: "https://jsonplaceholder.typicode.com/comments" },
-        { key: "news", url: "https://jsonplaceholder.typicode.com/posts" }], save)
-  }, []);
-
-  useEffect(() => { console.log(store) }, [store]);
+  const { store } = useBulkDownload([
+    { key: "weather", url: "https://jsonplaceholder.typicode.com/todos/1" },
+    { key: "sports", url: "https://jsonplaceholder.typicode.com/comments" },
+    { key: "news", url: "https://jsonplaceholder.typicode.com/posts" }])
 
   return (
     <div className="App">

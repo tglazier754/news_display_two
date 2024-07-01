@@ -16,7 +16,10 @@ export const bulkDownloads = async (dataObjects, save, concurrency = 3) => {
         const currentUrl = dataObjects[i];
 
         return fetch(currentUrl.url).then((result) => {
-            return save(currentUrl.key, result);
+
+            result.json().then((body) => {
+                return save(currentUrl.key, body);
+            });
         }).catch(error => {
             return save(currentUrl.key, error);
         }).finally(() => {

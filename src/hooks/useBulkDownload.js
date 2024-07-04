@@ -14,6 +14,7 @@ export const useBulkDownload = (downloads, refreshTime = 15) => {
         setStore(
             dataStore.current
         );
+        console.log(dataStore.current);
     }
 
 

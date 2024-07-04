@@ -21,6 +21,7 @@ export const bulkDownloads = async (dataObjects, save, concurrency = 3) => {
                 return save(currentUrl.key, body);
             });
         }).catch(error => {
+            console.log(currentUrl.key);
             return save(currentUrl.key, error);
         }).finally(() => {
             if (dataObjects.length - 1 - i < currentConcurrency) {

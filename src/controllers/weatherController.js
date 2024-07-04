@@ -3,6 +3,7 @@ export const processWeatherData = (data, days = 6) => {
     as mentioned in app.js, this would be moved to a backend
     that way, the frontend does not need to be updated if we need to swap out feed sources
     */
+    //TODO: Check if data is valid
     const outputData = {};
     if (data) {
         outputData.units = data.current_units.temperature_2m;

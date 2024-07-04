@@ -1,0 +1,7 @@
+.score-ticker {
+    display: flex;
+
+    max-width: 100vw;
+    overflow: hidden;
+    justify-content: space-between;
+}

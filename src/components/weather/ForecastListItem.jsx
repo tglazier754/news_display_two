@@ -6,7 +6,7 @@ import { WeatherIcon } from "./WeatherIcon";
 export const ForecastListItem = (props) => {
     const { forecast, units } = props;
     const dateSplit = getDateSplit(forecast.date);
-    console.log(forecast);
+
     return (
         <div key={`daily-forecast-entry-${forecast.date}`} className="daily-forecast">
             <div className="daily-forecast-wrapper">

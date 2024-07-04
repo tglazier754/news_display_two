@@ -23,7 +23,6 @@ export const useBulkDownload = (downloads, refreshTime = 15) => {
             downloads, save)
 
         return () => {
-            dataStore.current = {};
             setStore(dataStore.current);
         }
     }, []);

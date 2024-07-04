@@ -16,8 +16,9 @@
 }
 
 .weather-container {
-  background-color: grey;
-  color: white;
+
+  padding: 10px;
+  border: 1px solid;
   overflow: hidden;
   grid-column: 4 / 4;
   grid-row: 1 / 2;

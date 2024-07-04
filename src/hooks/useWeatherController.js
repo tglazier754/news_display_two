@@ -26,6 +26,7 @@ export const useWeatherController = (data, days = 6) => {
             }
             weatherDataRef.current = outputData;
             setProcessedWeatherData(weatherDataRef.current);
+            console.log(outputData);
         }
 
         return () => { weatherDataRef.current = data; setProcessedWeatherData(weatherDataRef.current) }

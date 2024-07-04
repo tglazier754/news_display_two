@@ -18,12 +18,12 @@ function App() {
     <div className="App">
       <main>
 
-        <div class="grid-wrapper">
-          <div class="news-container"><p>news</p></div>
-          <div class="weather-container">
+        <div className="grid-wrapper">
+          <div className="news-container"><p>news</p></div>
+          <div className="weather-container">
             <Weather data={store["weather"]} />
           </div>
-          <div class="sports-container"><p>sports</p></div>
+          <div className="sports-container"><p>sports</p></div>
         </div>
       </main>
     </div>

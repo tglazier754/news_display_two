@@ -1,34 +1,33 @@
-import { useEffect } from "react";
-import { useWeatherController } from "../../hooks/useWeatherController"
-
+import { useEffect, useMemo, useState } from "react";
+import { getFormattedDateString } from "../../utils/timeConversion";
+import { ForecastListItem } from "./ForecastListItem";
+import { WeatherIcon } from "./WeatherIcon";
+import "./weather.css";
+import { processWeatherData } from "../../controllers/weatherController";
 
 export const Weather = ({ data }) => {
 
-    const { processedWeatherData } = useWeatherController(data);
+    const processedWeatherData = useMemo(() => { return processWeatherData(data); }, [data]);
+    const currentDate = getFormattedDateString(new Date());
 
-
-    useEffect(() => { console.log(processedWeatherData) }, [processedWeatherData]);
-
-    if (!processedWeatherData) return null;
+    if (!processedWeatherData || !Object.keys(processedWeatherData).length) return null;
 
 
     return (
         <div id="weather-widget">
-            <div id="current">
-                <p className="header">Current</p>
-                <p className="temp">{processedWeatherData.current.temperature}{processedWeatherData.units}</p>
-                <p className="weather-code">{processedWeatherData.current.weather_code}</p>
+            <div id="current-weather" className="current-weather">
+
+                <div className="weather-icon-container">
+                    <WeatherIcon weatherCode={processedWeatherData.current.weather_code} />
+                </div>
+                <div className="header-section">
+                    <span className="weather-header">{currentDate}</span>
+                    <p className="temp">{processedWeatherData.current.temperature}{processedWeatherData.units}</p>
+                </div>
             </div>
-            <div id="forecast">
+            <div id="forecast-container">
                 {processedWeatherData.forecast.map((forecast) => {
-                    return (
-                        <div className="daily-forecast">
-                            <p className="header">{forecast.date}</p>
-                            <p className="temp">{`High: ${forecast.high}`}</p>
-                            <p className="temp">{`Low: ${forecast.low}`}</p>
-                            <p className="weather-code">{forecast.weather_code}</p>
-                        </div>
-                    )
+                    return <ForecastListItem forecast={forecast} units={processedWeatherData.units} />
                 })}
             </div>
 

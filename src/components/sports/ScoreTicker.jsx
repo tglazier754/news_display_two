@@ -13,20 +13,22 @@
     - Changing the active selection will trigger a re-render on the ticker
 */
 
+import { useMemo } from "react";
 import { processMLBData } from "../../controllers/mlbController";
+import { prepScreens } from "../../controllers/scoreTickerController";
 import MLBScoreBox from "./MLBScoreBox";
 import "./scoreTicker.css";
 
 export const ScoreTicker = ({ mlb }) => {
 
     //TODO: Memoize this
-    const processedData = processMLBData(mlb);
-    console.log(processedData);
+    const processedMLBData = useMemo(() => { return processMLBData(mlb); }, [mlb])
+    const screensData = useMemo(() => { return prepScreens({ mlb: processedMLBData }) }, [processedMLBData]);
 
     return (
         <div className="score-ticker">
 
-
+            <p>{screensData ? screensData.length : 0}</p>
         </div>)
 
 }

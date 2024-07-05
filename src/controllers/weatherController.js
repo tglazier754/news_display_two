@@ -14,7 +14,6 @@ export const processWeatherData = (data, days = 6) => {
             const forecastData = { date: dailyData.time[i], high: dailyData.temperature_2m_max[i], low: dailyData.temperature_2m_min[i], weather_code: dailyData.weather_code[i] }
             outputData.forecast.push(forecastData);
         }
-        console.log(outputData);
     }
 
     return outputData;

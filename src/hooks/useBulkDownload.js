@@ -14,12 +14,10 @@ export const useBulkDownload = (downloads, refreshTime = 15) => {
         setStore(
             dataStore.current
         );
-        console.log(dataStore.current);
     }
 
 
     useEffect(() => {
-        console.log("bulkDownloads");
         bulkDownloads(
             downloads, save)
 

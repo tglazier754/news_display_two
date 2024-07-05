@@ -10,7 +10,7 @@ export const Weather = ({ data }) => {
     const processedWeatherData = useMemo(() => { return processWeatherData(data); }, [data]);
     const currentDate = getFormattedDateString(new Date());
 
-    if (!processedWeatherData || !Object.keys(processedWeatherData).length) return null;
+    if (!processedWeatherData || !Object.keys(processedWeatherData).length) return <p>loading...</p>;
 
 
     return (

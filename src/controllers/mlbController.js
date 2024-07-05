@@ -8,7 +8,6 @@ export const processMLBData = (data) => {
     if (data) {
         games = data.dates[0].games.map((game) => {
             const gameObj = {};
-            gameObj.type = "mlb";
             gameObj.date = game.gameDate;
             gameObj.venue = game.venue.name;
             gameObj.status = game.status.abstractGameState;

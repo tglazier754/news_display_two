@@ -13,7 +13,7 @@
     - Changing the active selection will trigger a re-render on the ticker
 */
 
-import { useMemo } from "react";
+import { useMemo, useState } from "react";
 import { processMLBData } from "../../controllers/mlbController";
 import { prepScreens } from "../../controllers/scoreTickerController";
 import MLBScoreBox from "./MLBScoreBox";
@@ -21,14 +21,24 @@ import "./scoreTicker.css";
 
 export const ScoreTicker = ({ mlb }) => {
 
-    //TODO: Memoize this
     const processedMLBData = useMemo(() => { return processMLBData(mlb); }, [mlb])
     const screensData = useMemo(() => { return prepScreens({ mlb: processedMLBData }) }, [processedMLBData]);
 
+    const [activeScreen, setActiveScreen] = useState(0);
+    const activeScreenData = useMemo(() => { return screensData[activeScreen] }, [activeScreen]);
+    setTimeout(() => {
+        if (activeScreen === screensData.length - 1) {
+            setActiveScreen(0);
+        }
+        else setActiveScreen(activeScreen + 1);
+    }, 5000);
+
+    if (!activeScreenData) return null;
+
     return (
         <div className="score-ticker">
-
-            <p>{screensData ? screensData.length : 0}</p>
+            <div className="league-name">{activeScreenData.league}</div>
+            {activeScreenData.games.map((game) => { return <MLBScoreBox gameData={game} /> })}
         </div>)
 
 }

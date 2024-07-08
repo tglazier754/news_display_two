@@ -17,6 +17,7 @@ import { useMemo, useState } from "react";
 import { processMLBData } from "../../controllers/mlbController";
 import { prepScreens } from "../../controllers/scoreTickerController";
 import MLBScoreBox from "./MLBScoreBox";
+import LeagueIcon from "./LeagueIcon";
 import "./scoreTicker.css";
 
 
@@ -43,8 +44,10 @@ export const ScoreTicker = ({ mlb }) => {
     //giving the score ticker a unique key means that it will be re-drawn on each re-render
     return (
         <div key={`score-ticker-active-screen-${activeScreen}`} className="score-ticker">
-            <div className="league-name">{activeScreenData.league}</div>
-            {activeScreenData.games.map((game) => { return <MLBScoreBox gameData={game} /> })}
+            <div className="league-name-container"><LeagueIcon league={activeScreenData.league} /></div>
+            <div className="games">
+                {activeScreenData.games.map((game) => { return <MLBScoreBox gameData={game} /> })}
+            </div>
         </div>)
 
 }

@@ -3,14 +3,14 @@
 const mlbTeams = {
     "arizona-diamondbacks": "ari",
     "atlanta-braves": "atl",
-    "baltimore-oriols": "bal",
+    "baltimore-orioles": "bal",
     "boston-red-sox": "bos",
     "chicago-cubs": "chc",
     "chicago-white-sox": "cws",
-    "cincinatti-reds": "cin",
+    "cincinnati-reds": "cin",
     "cleveland-guardians": "cle",
     "colorado-rockies": "col",
-    "detroit-tigers:": "det",
+    "detroit-tigers": "det",
     "houston-astros": "hou",
     "kansas-city-royals": "kc",
     "los-angeles-angels": "laa",
@@ -35,5 +35,9 @@ const mlbTeams = {
 
 
 export const getTeamAbbreviation = (teamName) => {
-    return mlbTeams[teamName.toLowerCase().replace(" ", "-").replace(".", "")];
+    const clean = teamName.toLowerCase().replaceAll(".", "").replaceAll(" ", "-");
+    console.log(clean);
+    return mlbTeams[clean];
 }
+
+console.log(getTeamAbbreviation("Milwaukee Brewers"))

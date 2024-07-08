@@ -19,3 +19,16 @@ export const getFormattedDateString = (dateVal) => {
         return `${days[date.getDay()]} ${months[date.getMonth()]} ${date.getDate()}, ${date.getFullYear()}`
     return null;
 }
+
+export const getFormattedTimeString = (dateVal) => {
+    const date = (typeof dateVal === "string") ? new Date(dateVal) : dateVal;
+
+    if (date) {
+        const hours = date.getHours();
+        const hoursTwelve = hours > 12 ? hours - 12 : hours;
+        const minutes = date.getMinutes();
+        const minutesFixed = minutes < 10 ? `0${minutes}` : minutes;
+        return `${hoursTwelve}:${minutesFixed}`
+    }
+    return null;
+}

@@ -1,5 +1,7 @@
 //converting statsapi.mlb data to usable game data
 
+
+//TODO: for each game that is live, we need to pull the live game data so that we know what inning it's in
 export const processMLBData = (data) => {
 
     let games = [];

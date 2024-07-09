@@ -2,7 +2,7 @@ import { getTeamAbbreviation } from "../../utils/sportsTeams";
 import { getFormattedTimeString } from "../../utils/timeConversion";
 import "./MLBScoreBox.css";
 
-export const MLBScoreBox = ({ gameData }) => {
+export const MLBScoreBox = ({ gameData, compact = false }) => {
 
 
     //TODO: Add a helper function to link full team names to abbreviated names
@@ -14,19 +14,19 @@ export const MLBScoreBox = ({ gameData }) => {
     const homeTeamAbbrev = getTeamAbbreviation(gameData.homeTeam.name);
 
     return (
-        <div className="mlb-score-box">
+        <div className={`mlb-score-box ${compact ? "compact" : ""}`}>
             <div className="game-status">{gameStatus}</div>
-            <div className="away-team">
-                <div className={`sports-logo ${awayTeamAbbrev}`} style={{ backgroundImage: `url(/mlb/${awayTeamAbbrev}.png)` }}></div>
-                <div className="team-name">{gameData.awayTeam.name}</div>
-                <div className="team-record">{`${gameData.awayTeam.record.wins} - ${gameData.awayTeam.record.losses}`}</div>
-                <div className="team-score">{gameData.awayTeam.score}</div>
-            </div>
-            <div className="home-team">
-                <div className={`sports-logo ${homeTeamAbbrev}`} style={{ backgroundImage: `url(/mlb/${homeTeamAbbrev}.png)` }}></div>
-                <div className="team-name">{gameData.homeTeam.name}</div>
-                <div className="team-record">{`${gameData.homeTeam.record.wins} - ${gameData.homeTeam.record.losses}`}</div>
-                <div className="team-score">{gameData.homeTeam.score}</div>
+            <div className="scores-container">
+                <div className="team-info away-team">
+                    <div className={`sports-logo ${awayTeamAbbrev}`} style={{ backgroundImage: `url(/mlb/${awayTeamAbbrev}.png)` }}></div>
+                    <div className="team-name"><span>{compact ? awayTeamAbbrev.toUpperCase() : gameData.awayTeam.name}</span></div>
+                    <div className="team-score"><span>{gameData.awayTeam.score}</span></div>
+                </div>
+                <div className="team-info home-team">
+                    <div className={`sports-logo ${homeTeamAbbrev}`} style={{ backgroundImage: `url(/mlb/${homeTeamAbbrev}.png)` }}></div>
+                    <div className="team-name"><span>{compact ? homeTeamAbbrev.toUpperCase() : gameData.homeTeam.name}</span></div>
+                    <div className="team-score"><span>{gameData.homeTeam.score}</span></div>
+                </div>
             </div>
         </div >
     );

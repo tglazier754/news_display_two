@@ -4,8 +4,42 @@
 }
 
 .sports-logo {
-    border: solid 1px;
     min-height: 20px;
     max-width: 20px;
     background-size: 100% 100%;
+}
+
+.game-status {
+    border-bottom: solid 1px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.scores-container {
+    padding: 10px;
+    padding-bottom: 0;
+}
+
+.team-info {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 1fr 4fr 1fr;
+    margin-bottom: 10px;
+}
+
+.mlb-score-box.compact .team-info {
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.team-name {
+    text-align: left;
+}
+
+.team-score {
+    text-align: right;
+}
+
+.team-name>span,
+.team-score>span {
+    vertical-align: middle;
 }

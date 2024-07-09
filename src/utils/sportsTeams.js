@@ -24,7 +24,7 @@ const mlbTeams = {
     "philadelphia-phillies": "phi",
     "pittsburgh-pirates": "pit",
     "san-diego-padres": "sd",
-    "san-fransisco-giants": "sf",
+    "san-francisco-giants": "sf",
     "seattle-mariners": "sea",
     "st-louis-cardinals": "stl",
     "tampa-bay-rays": "tb",

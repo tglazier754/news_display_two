@@ -49,7 +49,7 @@ export const ScoreTicker = ({ mlb }) => {
         <div key={`score-ticker-active-screen-${activeScreen}`} className="score-ticker">
             <div className="league-name-container"><LeagueIcon league={activeScreenData.league} /></div>
             <div className="games">
-                {activeScreenData.games.map((game) => { return <MLBScoreBox gameData={game} /> })}
+                {activeScreenData.games.map((game) => { return <MLBScoreBox key={`mlb-game-${game.guid}`} gameData={game} /> })}
             </div>
         </div>)
 

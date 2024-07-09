@@ -2,8 +2,6 @@
 
 export const LeagueIcon = ({ league }) => {
 
-    console.log(league);
-
     return (
         <div>
             <div className="league-name">{league}</div>

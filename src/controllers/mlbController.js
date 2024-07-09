@@ -11,6 +11,7 @@ export const processMLBData = (data) => {
         games = data.dates[0].games.map((game) => {
             const gameObj = {};
             gameObj.date = game.gameDate;
+            gameObj.guid = game.gameGuid;
             gameObj.venue = game.venue.name;
             gameObj.status = game.status.abstractGameState;
             gameObj.homeTeam = { name: game.teams.home.team.name, record: game.teams.home.leagueRecord, score: game.teams.home.score || null }

@@ -27,7 +27,7 @@ export const Weather = ({ data }) => {
             </div>
             <div id="forecast-container">
                 {processedWeatherData.forecast.map((forecast) => {
-                    return <ForecastListItem forecast={forecast} units={processedWeatherData.units} />
+                    return <ForecastListItem key={`forecast-line-item-${forecast.date}`} forecast={forecast} units={processedWeatherData.units} />
                 })}
             </div>
 

@@ -3,8 +3,12 @@ import { useRef, useState, useEffect } from 'react';
 import { bulkDownloads } from '../utils/downloads';
 
 
+//TODO: Make this handle multiple renders without restarting
 export const useBulkDownload = (downloads, refreshTime = 15) => {
-    //use a ref for the data store so that it remains across re-renders
+
+    const controller = new AbortController();
+    const signal = controller.signal;
+
     const dataStore = useRef({});
     const [store, setStore] = useState(dataStore.current);
 
@@ -18,11 +22,12 @@ export const useBulkDownload = (downloads, refreshTime = 15) => {
 
 
     useEffect(() => {
-        bulkDownloads(
-            downloads, save)
+        bulkDownloads(downloads, save, signal);
 
         return () => {
+            controller.abort("unmounted component");
             setStore(dataStore.current);
+            dataStore.current = {};
         }
     }, []);
 

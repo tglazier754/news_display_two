@@ -17,16 +17,14 @@ export const prepScreens = (feeds, maxScreenSize = 4) => {
         //determine the optimal number of games per screen
         const feed = feeds[league];
         const screenSize = calculateOptimalScreenSize(feed.length, maxScreenSize);
-        console.log(screenSize);
 
         for (var i = 0; i < feed.length; i += screenSize) {
-
             const screen = { league: league, games: feed.slice(i, i + screenSize) }
             screens.push(screen);
         }
 
     })
-    console.log(screens);
+
     return screens;
 }
 
@@ -35,9 +33,6 @@ export const prepScreens = (feeds, maxScreenSize = 4) => {
 const calculateOptimalScreenSize = (gamesCount, maxScreenSize) => {
     let highest = 1;
     let screenSize;
-
-    console.log(gamesCount);
-    console.log(maxScreenSize);
     if (gamesCount <= maxScreenSize) { return gamesCount.length; }
     for (var i = maxScreenSize; i > 1; i--) {
         const leftover = gamesCount % i;
@@ -48,9 +43,6 @@ const calculateOptimalScreenSize = (gamesCount, maxScreenSize) => {
             break;
         }
         if (leftover > highestLeftover) {
-            console.log(leftover);
-            console.log(highestLeftover);
-            console.log("highest leftover");
             highest = i;
         }
     }

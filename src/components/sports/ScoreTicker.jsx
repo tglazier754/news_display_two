@@ -31,8 +31,9 @@ export const ScoreTicker = ({ mlb }) => {
     const [activeScreen, setActiveScreen] = useState(0);
     const activeScreenData = useMemo(() => { return screensData[activeScreen] }, [activeScreen]);
 
+    //this could be placed into a use effect with an empty dependency array so that we can nullify it on unmount
     //timer for changing the active screen
-    setTimeout(() => {
+    const animationTimer = setTimeout(() => {
         if (activeScreen === screensData.length - 1) {
             setActiveScreen(0);
         }
@@ -41,6 +42,8 @@ export const ScoreTicker = ({ mlb }) => {
 
     if (!activeScreenData) return null;
 
+    //TODO: set compact to true for the box scores on small screens
+    //TODO: Make the box scores class generic and have it determine which league to use
     //giving the score ticker a unique key means that it will be re-drawn on each re-render
     return (
         <div key={`score-ticker-active-screen-${activeScreen}`} className="score-ticker">

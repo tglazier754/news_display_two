@@ -1,7 +1,7 @@
 
 //urls is an array of objects of type {keyName:string, url:string}
 
-export const bulkDownloads = async (dataObjects, save, concurrency = 3) => {
+export const bulkDownloads = async (dataObjects, save, abortSignal, concurrency = 3) => {
     //for each entry in urls, call fetch
     //after getting the data, call save using the url as the key
 
@@ -15,7 +15,7 @@ export const bulkDownloads = async (dataObjects, save, concurrency = 3) => {
 
         const currentUrl = dataObjects[i];
 
-        return fetch(currentUrl.url).then((result) => {
+        return fetch(currentUrl.url, { abortSignal }).then((result) => {
 
             result.json().then((body) => {
                 return save(currentUrl.key, body);
@@ -32,4 +32,15 @@ export const bulkDownloads = async (dataObjects, save, concurrency = 3) => {
     return Promise.all(Array.from({ length: currentConcurrency }, action));
 
 
-} 
+}
+
+
+export const bulkDownloadsPromise = (dataObjects) => {
+    console.log("bulkDownloads");
+
+    const promises = dataObjects.map((dataObject) => {
+        return fetch(dataObject.url);
+    })
+
+    return Promise.allSettled(promises);
+}

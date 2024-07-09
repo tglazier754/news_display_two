@@ -1,8 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
-import { useBulkDownload } from './hooks/useBulkDownload';
 import { Weather } from './components/weather/Weather';
 import ScoreTicker from './components/sports/ScoreTicker';
+import { useBulkDownload } from "./hooks/useBulkDownload";
 
 function App() {
 
@@ -25,10 +24,7 @@ function App() {
   const { store } = useBulkDownload([
     { key: "weather", url: "/test_data/weather_forecast_july092024.json" },
     { key: "mlb", url: "/test_data/mlbScores_July092024_morning.json" },
-    { key: "news", url: "/test_data/news_July092024_morning.json" }])
-
-  /*,
-  */
+    { key: "news", url: "/test_data/news_July092024_morning.json" }]);
 
   return (
     <div className="App">

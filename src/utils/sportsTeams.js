@@ -36,8 +36,5 @@ const mlbTeams = {
 
 export const getTeamAbbreviation = (teamName) => {
     const clean = teamName.toLowerCase().replaceAll(".", "").replaceAll(" ", "-");
-    console.log(clean);
     return mlbTeams[clean];
 }
-
-console.log(getTeamAbbreviation("Milwaukee Brewers"))

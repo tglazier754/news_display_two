@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CityNews Toronto",
+            "title": "Here are some Ontario retailers selling alcohol during LCBO strike - CityNews Toronto",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vdG9yb250by5jaXR5bmV3cy5jYS8yMDI0LzA3LzA4L2xjYm8tc3RyaWtlLW9udGFyaW8tc3RvcmVzLXNlbGxpbmctYWxjb2hvbC1wcm92aW5jZXdpZGUtdGhlLWJlZXItc3RvcmUv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T12:11:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Peter Nurse",
+            "title": "Asia shares firm, euro dogged by French election deadlock By Reuters - Investing.com",
+            "description": "Boeing, Paramount Global, Corning rise premarket; Exxon Mobil, Tesla fall",
+            "url": "https://www.investing.com/news/stock-market-news/boeing-paramount-global-corning-rise-premarket-exxon-mobil-tesla-fall-3509893",
+            "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEC4F07A_L.jpg",
+            "publishedAt": "2024-07-08T12:10:32Z",
+            "content": "Investing.com -- U.S. stock futures traded in tight ranges Monday, with traders awaiting the release of key inflation data as well as testimony from Fed chief Jerome Powell to Congress this week.<li>… [+1431 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Visual Capitalist",
+            "title": "The Fastest Growing Millionaire Populations, by Country (2013-2023) - Visual Capitalist",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnZpc3VhbGNhcGl0YWxpc3QuY29tL3RoZS1mYXN0ZXN0LWdyb3dpbmctbWlsbGlvbmFpcmUtcG9wdWxhdGlvbnMtYnktY291bnRyeS0yMDEzLTIwMjMv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T12:09:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Globe and Mail",
+            "title": "Two Canadian stocks set to benefit from AI-driven datacenter expansion: RBC - The Globe and Mail",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy50aGVnbG9iZWFuZG1haWwuY29tL2ludmVzdGluZy9tYXJrZXRzL2luc2lkZS10aGUtbWFya2V0L2FydGljbGUtdHdvLWNhbmFkaWFuLXN0b2Nrcy1zZXQtdG8tYmVuZWZpdC1mcm9tLWFpLWRyaXZlbi1kYXRhY2VudGVyLWV4cGFuc2lvbi_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T12:03:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Globe and Mail",
+            "title": "Monday's analyst upgrades and downgrades for July 8, 2024 - The Globe and Mail",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vaW52ZXN0aW5nL21hcmtldHMvaW5zaWRlLXRoZS1tYXJrZXQvYXJ0aWNsZS1tb25kYXlzLWFuYWx5c3QtdXBncmFkZXMtYW5kLWRvd25ncmFkZXMtMjIzL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T11:53:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Bitfarms Ltd.",
+            "title": "Bitfarms Appoints Ben Gagnon as Chief Executive Officer - Bitfarms Ltd.",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vaW52ZXN0b3IuYml0ZmFybXMuY29tL25ld3MtZXZlbnRzL3ByZXNzLXJlbGVhc2VzL2RldGFpbC8yNTMvYml0ZmFybXMtYXBwb2ludHMtYmVuLWdhZ25vbi1hcy1jaGllZi1leGVjdXRpdmUtb2ZmaWNlctIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T11:03:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Castanet.net",
+            "title": "Parent company of Penticton's Peerless Limited secures investment of $170 million - Castanet.net",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmNhc3RhbmV0Lm5ldC9uZXdzL1BlbnRpY3Rvbi80OTYwNjQvUGFyZW50LWNvbXBhbnktb2YtUGVudGljdG9uLXMtUGVlcmxlc3MtTGltaXRlZC1zZWN1cmVzLWludmVzdG1lbnQtb2YtMTcwLW1pbGxpb27SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T11:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Castanet.net",
+            "title": "FortisBC provides tips on keeping cool and keeping costs under control - Castanet.net",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNhc3RhbmV0Lm5ldC9uZXdzL0JDLzQ5NTc5Ni9Gb3J0aXNCQy1wcm92aWRlcy10aXBzLW9uLWtlZXBpbmctY29vbC1hbmQta2VlcGluZy1jb3N0cy11bmRlci1jb250cm9s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T11:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CP24",
+            "title": "No music, dimmed lights help shoppers during sensory-friendly hours at retailers - CP24",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmNwMjQuY29tL25ld3Mvbm8tbXVzaWMtZGltbWVkLWxpZ2h0cy1oZWxwLXNob3BwZXJzLWR1cmluZy1zZW5zb3J5LWZyaWVuZGx5LWhvdXJzLWF0LXJldGFpbGVycy0xLjY5NTUwODfSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T10:47:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "FX Empire",
+            "title": "Natural Gas and Oil Forecast: WTI Slips Below $83; More Sell-Off Ahead? - FX Empire",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmZ4ZW1waXJlLmNvbS9mb3JlY2FzdHMvYXJ0aWNsZS9uYXR1cmFsLWdhcy1hbmQtb2lsLWZvcmVjYXN0LXd0aS1zbGlwcy1iZWxvdy04My1tb3JlLXNlbGwtb2ZmLWFoZWFkLTE0NDQzODTSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T10:44:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BNN Bloomberg",
+            "title": "'Meltdown': A week later, WestJet continues to feel the fallout from mechanics strike - BNN Bloomberg",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmJubmJsb29tYmVyZy5jYS9tZWx0ZG93bi1hLXdlZWstbGF0ZXItd2VzdGpldC1jb250aW51ZXMtdG8tZmVlbC10aGUtZmFsbG91dC1mcm9tLW1lY2hhbmljcy1zdHJpa2UtMS4yMDkzODM50gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T10:26:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Financial Post",
+            "title": "FOMO in overdrive as stock market concentration hits all-time high - Financial Post",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vZmluYW5jaWFscG9zdC5jb20vaW52ZXN0aW5nL2ZvbW8tc3RvY2stbWFya2V0LWNvbmNlbnRyYXRpb24tYWxsLXRpbWUtaGlnaNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T10:08:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Globe and Mail",
+            "title": "Makers of kitchen recycling machines imagine a new, less gross way to dispose of food waste - The Globe and Mail",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vYnVzaW5lc3MvYXJ0aWNsZS1mb29kLXdhc3RlLWtpdGNoZW4tcmVjeWNsaW5nLWFwcGxpYW5jZXMv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T10:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Canada NewsWire",
+            "title": "RECONAFRICA ANNOUNCES THE SPUD OF THE NAINGOPO EXPLORATION WELL, JOINT VENTURE UPDATE AND WARRANT EXERCISE UPDATE - Canada NewsWire",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5uZXdzd2lyZS5jYS9uZXdzLXJlbGVhc2VzL3JlY29uYWZyaWNhLWFubm91bmNlcy10aGUtc3B1ZC1vZi10aGUtbmFpbmdvcG8tZXhwbG9yYXRpb24td2VsbC1qb2ludC12ZW50dXJlLXVwZGF0ZS1hbmQtd2FycmFudC1leGVyY2lzZS11cGRhdGUtODQyMDg1ODExLmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T10:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CTV News Toronto",
+            "title": "Sex assault case of billionaire businessman Frank Stronach due in court today - CTV News Toronto",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vdG9yb250by5jdHZuZXdzLmNhL3NleC1hc3NhdWx0LWNhc2Utb2YtYmlsbGlvbmFpcmUtYnVzaW5lc3NtYW4tZnJhbmstc3Ryb25hY2gtZHVlLWluLWNvdXJ0LXRvZGF5LTEuNjk1NTAzONIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T09:42:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Globe and Mail",
+            "title": "Before the Bell: What every Canadian investor needs to know today - The Globe and Mail",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy50aGVnbG9iZWFuZG1haWwuY29tL2ludmVzdGluZy9tYXJrZXRzL2luc2lkZS10aGUtbWFya2V0L2FydGljbGUtYmVmb3JlLXRoZS1iZWxsLXdoYXQtZXZlcnktY2FuYWRpYW4taW52ZXN0b3ItbmVlZHMtdG8ta25vdy10b2RheS0xMDIwL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T09:31:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CBC.ca",
+            "title": "Don't push the pouch: Convenience stores want N.L. to fight feds on proposed nicotine pouch rules - CBC.ca",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9uZXdmb3VuZGxhbmQtbGFicmFkb3Ivbmljb3RpbmUtcG91Y2gtZmVkZXJhbC1jb252ZW5pZW5jZS1zdG9yZS1ubC0xLjcyNTU2OTjSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzI1NTY5OA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T08:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BNN Bloomberg",
+            "title": "Grifols says founding family, Brookfield weigh takeover bid - BNN Bloomberg",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmJubmJsb29tYmVyZy5jYS9ncmlmb2xzLXNheXMtZm91bmRpbmctZmFtaWx5LWJyb29rZmllbGQtd2VpZ2gtdGFrZW92ZXItYmlkLTEuMjA5Mzc4NNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T07:46:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Toronto Sun",
+            "title": "SUNshine Girl Chiv - Toronto Sun",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vdG9yb250b3N1bi5jb20vc3Vuc2hpbmUtZ2lybC9zdW5zaGluZS1naXJsLWNoaXYtMtIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T06:10:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ambcrypto.com"
+            },
+            "author": "Victor Olanrewaju",
+            "title": "Polkadot: Here’s why DOT’s price is all set to revisit $7 - AMBCrypto News",
+            "description": "The crypto leads the gains of the last 24 hours. Will it do the same in the coming days?",
+            "url": "https://ambcrypto.com/?p=405118",
+            "urlToImage": "https://ambcrypto.com/wp-content/uploads/2024/07/polkadot-news-dot-price-1000x600.webp",
+            "publishedAt": "2024-07-08T05:02:30Z",
+            "content": "<ul><li>DOT’s market indicators suggest that the price could continue to rise with targets as high as $6.96.</li><li>Capital flowed in the token’s direction and an analyst predicted a breakout.</li><… [+2811 chars]"
+        }
+    ]
+}

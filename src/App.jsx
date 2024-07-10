@@ -2,6 +2,7 @@ import './App.css';
 import { Weather } from './components/weather/Weather';
 import ScoreTicker from './components/sports/ScoreTicker';
 import { useBulkDownload } from "./hooks/useBulkDownload";
+import News from './components/news/News';
 
 function App() {
 
@@ -19,19 +20,23 @@ function App() {
   /*const { store } = useBulkDownload([
     { key: "weather", url: "https://api.open-meteo.com/v1/forecast?latitude=43.65&longitude=79.38&current=temperature_2m,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min&forecast_days=6" },
     { key: "mlb", url: "https://statsapi.mlb.com/api/v1/schedule/games/?sportId=1" },
-    { key: "news", url: `https://newsapi.org/v2/top-headlines?country=ca&category=business&apiKey=${newsApiKey}` }])*/
+    { key: "news", url: `https://newsapi.org/v2/top-headlines?country=ca&apiKey=${newsApiKey}` }])*/
+
+  //https://newsapi.org/v2/everything?q=tech&apiKey=20f3c836ab7146f7965a8ebb78c425b4
 
   const { store } = useBulkDownload([
     { key: "weather", url: "/test_data/weather_forecast_july092024.json" },
     { key: "mlb", url: "/test_data/mlbScores_July092024_morning.json" },
-    { key: "news", url: "/test_data/news_July092024_morning.json" }]);
+    { key: "news", url: "/test_data/news_July102024_morning.json" }]);
 
   return (
     <div className="App">
       <main>
 
         <div className="grid-wrapper">
-          <div className="news-container"><p>news</p></div>
+          <div className="news-container">
+            <News data={store["news"]} />
+          </div>
           <div className="weather-container">
             <Weather data={store["weather"]} />
           </div>

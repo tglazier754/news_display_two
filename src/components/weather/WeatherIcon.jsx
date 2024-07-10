@@ -30,7 +30,7 @@ export const WeatherIcon = ({ weatherCode }) => {
         const SVG = iconRef.current;
         return (
             <div className="weather-icon">
-                <SVG />
+                <SVG outline="#383838" orange="#FFA500" blue="#1E1A5C" yellow="#E9EC2C" />
             </div>)
     }
 

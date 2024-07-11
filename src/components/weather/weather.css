@@ -2,27 +2,23 @@
     display: grid;
     columns: 1fr;
     gap: 0px;
+    min-height: 100%;
     max-height: 100%;
     grid-template-rows: 2fr 5fr;
 }
 
 
-#current-weather,
-.daily-forecast-wrapper {
-    display: grid;
-    grid-column: 1;
-    grid-row: 1;
-    grid-template-rows: 1fr;
-    grid-template-columns: 1fr 2fr;
+#current-weather {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    max-height: 100%;
+    min-height: 0;
 }
 
 .daily-forecast {
     display: block;
     position: relative;
-    max-height: 100%;
-}
-
-.daily-forecast-wrapper {
     max-height: 100%;
 }
 
@@ -56,12 +52,12 @@
 
 #forecast-container {
     grid-column: 1;
-    grid-row: 2 / 6;
+    grid-row: 2;
     display: grid;
 
     gap: 0px;
     max-height: 100%;
-    grid-template-rows: repeat(6, minmax(0, 1fr));
+    grid-template-rows: repeat(6, 1fr);
 }
 
 .weather-icon-container,

@@ -1,6 +1,7 @@
 
 import { getDateSplit } from "../../utils/timeConversion";
 import { WeatherIcon } from "./WeatherIcon";
+import "./ForecastListItem.css";
 
 
 export const ForecastListItem = (props) => {
@@ -13,12 +14,15 @@ export const ForecastListItem = (props) => {
                 <div className="weather-icon-container">
                     <WeatherIcon weatherCode={forecast.weather_code} />
                 </div>
-                <div className="info-section">
-                    <span className="weather-header">{dateSplit.day}</span>
-                    <div className="tempatature-section">
-                        <span className="temp">{`High: ${forecast.high}${units}`}</span>
-                        <span className="temp">{`Low: ${forecast.low}${units}`}</span>
-                    </div>
+                <div className="temperature-section">
+                    <span className="temp">
+                        <span className="high">{`${forecast.high}${units}/`}</span>
+                        <span className="low">{`${forecast.low}${units}`}</span>
+                    </span>
+                </div>
+
+                <div className="day-section">
+                    <span className="date">{dateSplit.day}</span>
                 </div>
             </div>
 

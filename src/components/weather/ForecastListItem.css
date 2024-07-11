@@ -1,0 +1,30 @@
+.daily-forecast-wrapper {
+    max-height: 100%;
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr;
+    max-width: 100%;
+    min-width: 0;
+    gap: 1rem;
+}
+
+.daily-forecast-wrapper>.weather-icon-container {
+    padding: 15%
+}
+
+.daily-forecast {
+    min-height: 0;
+    max-height: 100%;
+    display: flex;
+    align-content: center;
+}
+
+.temperature-section,
+.day-section {
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.low {
+    font-size: small;
+}

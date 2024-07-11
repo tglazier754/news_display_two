@@ -5,6 +5,7 @@
 .grid-wrapper {
   display: grid;
   gap: 0px;
+  min-height: 100vh;
   max-height: 100vh;
   grid-template-rows: 6fr 1fr;
   grid-template-columns: minmax(0, 1fr) 1fr;

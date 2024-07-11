@@ -4,13 +4,15 @@
 
 .grid-wrapper {
   display: grid;
-  columns: 4;
   gap: 0px;
   max-height: 100vh;
   grid-template-rows: 6fr 1fr;
+  grid-template-columns: minmax(0, 1fr) 1fr;
 }
 
 .news-container {
+  max-width: 100%;
+  min-width: 0;
   grid-column: 1/4;
   grid-row: 1;
 }

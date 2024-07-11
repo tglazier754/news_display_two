@@ -1,1306 +1,1306 @@
 {
     "status": "ok",
-    "totalResults": 36510,
+    "totalResults": 36647,
     "articles": [
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Lisa Wood Shapiro",
-            "title": "Neoplants Neo Px Review: This Plant Isn't as Good as an Air Purifier",
-            "description": "Is the Neo Px plant system a new kind of air purifying tech or a lot of hot air?",
-            "url": "https://www.wired.com/review/neoplants-neo-px/",
-            "urlToImage": "https://media.wired.com/photos/6675e6963b0997a9bb2a50c9/191:100/w_1280,c_limit/Neoplants-Neo-Px-Reviewer-Collage-062024-SOURCE-Lisa-Wood-Shapiro.jpg",
-            "publishedAt": "2024-06-23T13:00:00Z",
-            "content": "Neoplants has an attractive pitch: a living alternative to an air purifier bioengineered to rid the home of those toxic vapors known as volatile organic compounds, or VOCs. Its first product, the Neo… [+3063 chars]"
+            "author": "Andrew Liszewski",
+            "title": "There’s an AMD Ryzen 7 PC hiding inside this folding keyboard",
+            "description": "Linglong’s folding keyboard PC features an AMD Ryzen 7 processor and a rechargeable battery for about $412, assuming you are able to find one.",
+            "url": "https://www.theverge.com/2024/7/9/24195018/linglong-amd-ryzen-pc-computer-keyboard",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/HCIbntUVzYAHppMUxRFrzw7UVuc=/0x0:1354x846/1200x628/filters:focal(677x423:678x424)/cdn.vox-cdn.com/uploads/chorus_asset/file/25523627/linglong_keyboard_computer1.jpg",
+            "publishedAt": "2024-07-09T19:27:16Z",
+            "content": "Theres an AMD Ryzen 7 PC hiding inside this folding keyboard\r\nTheres an AMD Ryzen 7 PC hiding inside this folding keyboard\r\n / Linglong showed off a portable PC design in China that folds smaller tha… [+2020 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Jordan Bowman",
+            "title": "The best budget laptops in 2024",
+            "description": "These are the best budget laptops for students, remote workers, and anyone on a tight budget. Here’s what to keep in mind before buying one.",
+            "url": "https://www.nbcnews.com/select/shopping/best-budget-laptop-rcna160876",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-06/240625-budget-laptops-oo-main-6dc2e8.jpg",
+            "publishedAt": "2024-07-09T19:26:57Z",
+            "content": "The best budget laptops might not get all the bells and whistles of a high-end PC or Macbook, whether that be a high-end graphics card, metal construction or 1TB of SSD storage. However, a budget lap… [+8555 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Reuters",
+            "title": "China leads the world in adoption of generative AI, survey shows",
+            "description": "China leads the world in adoption of generative AI, survey shows",
+            "url": "https://www.investing.com/news/stock-market-news/china-leads-the-world-in-adoption-of-generative-ai-survey-shows-3511648",
+            "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEA7D094_L.jpg",
+            "publishedAt": "2024-07-09T19:26:24Z",
+            "content": "By Eduardo Baptista\r\nBEIJING (Reuters) - China is leading the world in adopting generative AI, a new survey shows, the latest sign the country is making strides in the technology that gained global a… [+2327 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Mariella Moon",
-            "title": "Paramount and Skydance will merge to create new tech-media giant",
-            "description": "David Ellison, the new chief executive of Paramount, has big plans for the media giant and wants to turn it into a \"media and technology\" company, according to the Financial Times. Ellison is taking over as Paramount's boss after his production studio, Skydan…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ba12447e-0d80-4028-aa16-3b85313b7749",
+            "author": "Cristina Alexander",
+            "title": "Amazon revives the Echo Spot smart alarm clock and swiftly discounts it by 44 percent",
+            "description": "As early Prime Day deals continue to become available, Amazon has revealed an all-new Echo Spot ahead of the shopping event. It’s very much like the original Echo Spot that came out in 2017 and was discontinued two years later except the front face is now spl…",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d5406c65-a318-4d90-b90c-54aa731c8c42",
             "urlToImage": null,
-            "publishedAt": "2024-07-09T14:00:52Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Caroline Haskins",
-            "title": "Activists Disrupt Amazon Conference Over $1.2 Billion Contract With Israel",
-            "description": "Members of the activist group No Tech for Apartheid interrupted a senior Amazon executive's speech at a conference in Washington, DC, on Wednesday over the company's Project Nimbus cloud contract.",
-            "url": "https://www.wired.com/story/amazon-aws-project-nimbus-conference-protest-israel-gaza/",
-            "urlToImage": "https://media.wired.com/photos/667c790e9adfc54147683f93/191:100/w_1280,c_limit/GettyImages-1248364818.jpg",
-            "publishedAt": "2024-06-26T21:54:48Z",
-            "content": "Two activists disrupted the Amazon Web Services Summit in Washington, DC, on Wednesday to protest Project Nimbus, Amazon and Googles $1.2 billion cloud computing contract with the Israeli government.… [+3731 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "David Gilbert",
-            "title": "Neo-Nazis Are All-In On AI",
-            "description": "Extremists are developing their own hateful AIs to supercharge radicalization and fundraising—and are now using the tech to make weapon blueprints and bombs. And it’s going to get worse.",
-            "url": "https://www.wired.com/story/neo-nazis-are-all-in-on-ai/",
-            "urlToImage": "https://media.wired.com/photos/667211650f046d6ed8302191/191:100/w_1280,c_limit/politics_neonazi_extremist_ai_radicalization.jpg",
-            "publishedAt": "2024-06-20T09:00:00Z",
-            "content": "Extremists across the US have weaponized artificial intelligence tools to help them spread hate speech more efficiently, recruit new members, and radicalize online supporters at an unprecedented spee… [+3092 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Jeff Dunn",
-            "title": "Apple's MacBook Air M3 hits a new low, plus the rest of the week's best tech deals",
-            "description": "It might be too late to get a big tech gift to ship in time for Father's Day, but if you're looking to upgrade your own setup, you can still take advantage of a few sales that are still kicking ahead of the weekend. The 13- and 15-inch versions of Apple's lat…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2eeb7e45-1426-453a-b795-d5a4d71d884e",
-            "urlToImage": null,
-            "publishedAt": "2024-06-14T16:06:38Z",
-            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Engadget",
-            "title": "Prime Day 2024 early deals you can shop ahead of the Amazon sale on July 16-17",
-            "description": "Amazon Prime Day 2024 will arrive shortly, bringing a deluge of discounts and deals on everything from household essentials to clothing to tech. Even though the shopping event is limited to 48 hours, Amazon typically has early Prime Day deals rolling out for …",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_337c64ba-8fd6-42c7-bb98-076cd339f1d5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-28T16:01:26Z",
+            "publishedAt": "2024-07-09T19:24:20Z",
             "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "PR Newswire UK"
             },
-            "author": "Kris Holt",
-            "title": "ChromeOS will lean more on the same tech that powers Android",
-            "description": "Google\r\n is making some significant changes to ChromeOS\r\n, the operating system that powers Chromebooks\r\n, but they may not be easy for you to spot. Future versions of the OS will lean more heavily on the same tech on which Android is based. More specifically…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f10e1c6e-987c-4252-8720-a48e11ff8382",
+            "author": null,
+            "title": "Mrs Wordsmith Announces Promotion of Brandon Cardet-Hernandez to President and Hiring of Aimée Bryan as First Chief Customer Officer",
+            "description": "The ed-tech company continues to scale globally and is evolving its c-suite to meet the mission and moment BOSTON, July 9, 2024 /PRNewswire/ -- Mrs Wordsmith, one of the world's leading educational content providers, today announced the promotion of Brandon C…",
+            "url": "https://www.prnewswire.co.uk/news-releases/mrs-wordsmith-announces-promotion-of-brandon-cardet-hernandez-to-president-and-hiring-of-aimee-bryan-as-first-chief-customer-officer-302192494.html",
             "urlToImage": null,
-            "publishedAt": "2024-06-12T19:48:43Z",
-            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+            "publishedAt": "2024-07-09T19:22:00Z",
+            "content": "The ed-tech company continues to scale globally and is evolving its c-suite to meet the mission and moment\r\nBOSTON, July 9, 2024 /PRNewswire/ -- Mrs Wordsmith, one of the world's leading educational … [+4056 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cgpersia.com"
+            },
+            "author": "Diptra",
+            "title": "SolidWorks 2024 SP3.1 Full Premium Win x64",
+            "description": "SolidWorks 2024 SP3.1 Full Premium Win x64 Title: SolidWorks 2024 SP3.1 Full Premium Win x64 Info: SolidWorks is a computer-aided design, engineering analysis and preparation system for manufacturing products of any complexity and purpose. SolidWorks is the c…",
+            "url": "https://cgpersia.com/2024/07/solidworks-2024-sp3-1-full-premium-win-x64-196157.html",
+            "urlToImage": null,
+            "publishedAt": "2024-07-09T19:21:41Z",
+            "content": "SolidWorks 2024 SP3.1 Full Premium Win x64\r\nInfo:SolidWorks is a computer-aided design, engineering analysis and preparation system for manufacturing products of any complexity and purpose. SolidWork… [+1884 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "My Modern Met"
+            },
+            "author": "Emma Taggart",
+            "title": "University Students Designed Gloves That Translate Sign Language Into Speech",
+            "description": "University Students Designed Gloves That Translate Sign Language Into Speech\nBefore tools like Google Translate and AI became mainstream, communicating with someone who spoke a different language was pretty challenging. But now, thanks to these tech advanceme…",
+            "url": "https://mymodernmet.com/sign-language-gloves-signaloud/",
+            "urlToImage": "https://mymodernmet.com/wp/wp-content/uploads/2024/07/sign-language-gloves-signaloud-thumbnail.jpg",
+            "publishedAt": "2024-07-09T19:20:55Z",
+            "content": "Before tools like Google Translate and AI became mainstream, communicating with someone who spoke a different language was pretty challenging. But now, thanks to these tech advancements, it's a lot e… [+3317 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizchina.com"
+            },
+            "author": "Efe Udin",
+            "title": "OnePlus Set To Unveil Four New Products at Milan Conference: Released Official Images",
+            "description": "On July 16, OnePlus will launch four new products at a special event in Milan. These products include the smartphone OnePlus Nord 4, the tablet ...\nThe post OnePlus Set To Unveil Four New Products at Milan Conference: Released Official Images appeared first o…",
+            "url": "https://www.gizchina.com/2024/07/09/oneplus-new-products-milan-launch/",
+            "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2024/07/OnePlus-Milan-Event.jpg",
+            "publishedAt": "2024-07-09T19:18:55Z",
+            "content": "On July 16, OnePlus will launch four new products at a special event in Milan. These products include the smartphone OnePlus Nord 4, the tablet OnePlus Pad 2, the smartwatch OnePlus Watch 2R, and the… [+7162 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "GlobeNewswire",
+            "title": "HPQ Silica Polvere Signs Letter of Intent with Evonik Corporation",
+            "description": "Agreement confirms commercial potential of the Fumed Silica Reactor MONTREAL, July 09, 2024 (GLOBE NEWSWIRE) — HPQ Silicon Inc. (“HPQ” or the “Company”) (TSX-V: HPQ) (OTCQB: HPQFF) (FRA: O08), a technology company specializing in the green engineering of sili…",
+            "url": "https://financialpost.com/globe-newswire/hpq-silica-polvere-signs-letter-of-intent-with-evonik-corporation",
+            "urlToImage": null,
+            "publishedAt": "2024-07-09T19:18:15Z",
+            "content": "Author of the article:\r\nArticle content\r\nAgreement confirms commercial potential of the Fumed Silica Reactor\r\nMONTREAL, July 09, 2024 (GLOBE NEWSWIRE) HPQ Silicon Inc.\r\n (HPQ or the Company) (TSX-V: … [+9995 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Lydia Moynihan, Josh Christenson",
+            "title": "Rep. Elise Stefanik raises more than $7M in second quarter with help from Wall Street, tech moguls",
+            "description": "House Republican Conference Chair Elise Stefanik is reporting another record-breaking fundraising quarter thanks to donations from Wall Street titans like Apollo CEO Marc Rowan and Silicon Valley moguls like Netscape co-founder Marc Andreesen, according to fe…",
+            "url": "https://nypost.com/2024/07/09/us-news/rep-elise-stefanik-raises-more-than-7m-in-second-quarter-with-help-from-wall-street-tech-moguls/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/newspress-collage-94h3x5nzs-1720544536917.jpg?quality=75&strip=all&1720530154&w=1024",
+            "publishedAt": "2024-07-09T19:16:15Z",
+            "content": "House Republican Conference Chair Elise Stefanik is reporting another record-breaking fundraising quarter thanks to donations from Wall Street titans like Apollo CEO Marc Rowan and Silicon Valley mog… [+3799 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "HPQ Silicon Inc.",
+            "title": "HPQ Silica Polvere Signs Letter of Intent with Evonik Corporation",
+            "description": "Agreement confirms commercial potential of the Fumed Silica Reactor Agreement confirms commercial potential of the Fumed Silica Reactor",
+            "url": "https://www.globenewswire.com/news-release/2024/07/09/2910717/0/en/HPQ-Silica-Polvere-Signs-Letter-of-Intent-with-Evonik-Corporation.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/f5d09737-4fc3-4658-acef-cb3fcc0c9132",
+            "publishedAt": "2024-07-09T19:16:00Z",
+            "content": "MONTREAL, July 09, 2024 (GLOBE NEWSWIRE) -- HPQ Silicon Inc.\r\n (HPQ or the Company) (TSX-V: HPQ\r\n)\r\n (OTCQB: HPQFF\r\n) (FRA: O08\r\n), a technology company specializing in the green engineering of silic… [+7300 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hautetime.com"
+            },
+            "author": "Adrienne Faurote",
+            "title": "Girard-Perregaux Drops The Casquette 2.0 Saint Laurent 02",
+            "description": "After a successful launch, Girard-Perregaux and Saint Laurent have done it again with the release of the Casquette 2.0 Saint Laurent 02.\nThe post Girard-Perregaux Drops The Casquette 2.0 Saint Laurent 02 appeared first on Haute Time.",
+            "url": "https://www.hautetime.com/girard-perregaux-drops-the-casquette-2-0-saint-laurent-02/",
+            "urlToImage": "https://hautetime.s3.us-west-1.amazonaws.com/wp-content/uploads/2024/07/09150914/GP1.jpg",
+            "publishedAt": "2024-07-09T19:15:44Z",
+            "content": "After an incredibly successful launch last June, Girard-Perregaux and Saint Laurent have done it again with the release of the Casquette 2.0 Saint Laurent 02. This new iteration of the classic Casque… [+2443 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": null,
+            "title": "First Ariane 6 rocket launches, as Europe rejoins a market dominated by Musk's SpaceX",
+            "description": "The European Space Agency has prepared its newest heavy-lift Ariane 6 rocket to launch from Europe's Spaceport in Kourou, French Guiana on Tuesday.",
+            "url": "https://www.cnbc.com/2024/07/09/first-ariane-6-launch-of-european-rocket.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108003046-1720524437984-gettyimages-2160676561-AFP_363F9KU.jpeg?v=1720524474&w=1920&h=1080",
+            "publishedAt": "2024-07-09T19:14:46Z",
+            "content": "The powerful European-built Ariane 6 rocket made its long-awaited liftoff on Tuesday, as the region returned to a launch market dominated by Elon Musk's SpaceX.\r\nAriane 6, standing over 200 feet tall… [+3224 chars]"
+        },
+        {
+            "source": {
+                "id": "info-money",
+                "name": "InfoMoney"
+            },
+            "author": "camillebocanegra",
+            "title": "Confira o calendário de resultados do 2º trimestre de 2024 da Bolsa brasileira",
+            "description": "Divulgação de resultados corporativos terá início em 16 de julho, com apresentação do balanço da Romi\nThe post Confira o calendário de resultados do 2º trimestre de 2024 da Bolsa brasileira appeared first on InfoMoney.",
+            "url": "https://www.infomoney.com.br/mercados/calendario-resultados-segundo-trimestre-2024-bolsa-brasileira/",
+            "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2019/06/calendario-agenda.jpg?quality=70",
+            "publishedAt": "2024-07-09T19:14:39Z",
+            "content": "A temporada de resultados do segundo trimestre de 2024 (2T24) na Bolsa brasileira tem início no dia 16 de julho e se estende até 15 de agosto de 2024.\r\nEntre as primeiras companhias a divulgarem seus… [+12660 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Derek Saul, Forbes Staff, \n Derek Saul, Forbes Staff\n https://www.forbes.com/sites/dereksaul/",
+            "title": "Tesla Stock Pops Another 4% To 2024 High—Elon Musk $37 Billion Richer This Month",
+            "description": "Tesla stock is at its most relatively expensive price since April 2022 as its share price rallies as profits slide.",
+            "url": "https://www.forbes.com/sites/dereksaul/2024/07/09/tesla-stock-pops-another-4-to-2024-high-elon-musk-37-billion-richer-this-month/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/668d8b5d4baa48fdb841c2aa/0x0.jpg?format=jpg&crop=1967,1108,x0,y152,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-09T19:13:53Z",
+            "content": "Tesla stock sped to a new 2024 high Tuesday, extending the automakers sizzling July and widening the gap between its CEO Elon Musk and the worlds next richest man, though Tesla may have a long road a… [+3690 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "pymnts.com",
+            "title": "Google and Santander Offer Free AI Lessons",
+            "description": "Google and Santander have teamed to offer a free course on artificial intelligence (AI).\nLaunched Tuesday (July 9), Santander | Google: Artificial Intelligence and Productivity is available in English, Spanish and Portuguese to anyone 18 and up, the global ba…",
+            "url": "https://biztoc.com/x/d2101ac400ed8be0",
+            "urlToImage": "https://biztoc.com/cdn/799/og.png",
+            "publishedAt": "2024-07-09T19:11:35Z",
+            "content": "Google and Santander have teamed to offer a free course on artificial intelligence (AI).Launched Tuesday (July 9), Santander | Google: Artificial Intelligence and Productivity is available in English… [+127 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FAIR"
+            },
+            "author": "Janine Jackson",
+            "title": "FAIR: ‘The Design of These Systems Keeps People in Opposition to Each Other’: CounterSpin interview with Hatim Rahman on algorithms and labor",
+            "description": "\"If you are the one who is being evaluated, it's not only you don't know the criteria, but it could be changing.\"",
+            "url": "https://fair.org/home/the-design-of-these-systems-keeps-people-in-opposition-to-each-other/",
+            "urlToImage": "https://fair.org/wp-content/uploads/2024/07/Hatim-Rahman-Featured.png",
+            "publishedAt": "2024-07-09T19:10:42Z",
+            "content": "Janine Jackson interviewed Northwestern University’s Hatim Rahman about algorithms and labor for the July 5, 2024, episode of CounterSpin. This is a lightly edited transcript.\r\nJanine Jackson: Many o… [+19179 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Clayton Davis",
+            "title": "Former Oscars Exec Jeanell English and ‘RHOA’ Star Tanya Sam on New Publishing Company and Wanting to See ‘Return of Fun Shade’ in Housewives Franchise",
+            "description": "What do you get when you pair a former Academy of Motion Picture Arts & Sciences executive with a reality TV star?   Try “Elizabeth & Minnie,” an independent publishing company that wants to identify and amplify stories of Asian, Black, Indigenous, Latino, an…",
+            "url": "https://variety.com/2024/tv/news/jeanell-english-tanya-sam-publishing-housewives-atlanta-kenya-moore-1236063752/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/07/Tanya-Sam-Jeanell-English.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-07-09T19:10:00Z",
+            "content": "What do you get when you pair a former Academy of Motion Picture Arts &amp; Sciences executive with a reality TV star?  \r\nTry “Elizabeth &amp; Minnie,” an independent publishing company that wants to… [+4945 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Itc.ua"
+            },
+            "author": "Андрій Русанов",
+            "title": "Без прокола пальца: лазерный пластырь расскажет о состоянии здоровья во время диабета",
+            "description": "Исследователи из Наньянского технологического университета, Сингапур (NTU Singapore) разработали инновационный лазерный пластырь, который может отслеживать важные показатели здоровья через пот человека. Эта инновация обещает неинвазивный и эффективный метод к…",
+            "url": "https://itc.ua/news/bez-prokola-paltsa-lazernyj-plastyr-rasskazhet-o-sostoyanyy-zdorovya-vo-vremya-dyabeta/",
+            "urlToImage": "https://itc.ua/wp-content/uploads/2024/07/Screenshot_4-1.png",
+            "publishedAt": "2024-07-09T19:05:50Z",
+            "content": ", (NTU Singapore) , . .\r\n , , , , . , , , . , : .\r\n NTU - (EEE) , , . .\r\n NTU NTU 2025 . . , , .\r\n , 0,001 , 100 , . , , .\r\n« , . , , , », , Ph. D. .\r\n , , . Analytical Chemistry.\r\n Android \r\n: NTU, … [+73 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Caller"
+            },
+            "author": "Nick Pope",
+            "title": "Biden Green Loan Czar To Shell Out Over $1 Billion To Firm Linked To His Old Trade Group — And His Current Office",
+            "description": "The Biden administration's green loan czar is looking to loan more than $1 billion to a green technology company that is linked to his old trade group and his ...",
+            "url": "https://dailycaller.com/2024/07/09/jigar-shah-biden-green-loan-entek-nonprofit-trade-group/",
+            "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/07/GettyImages-2149596848-scaled-e1720539522391.jpg",
+            "publishedAt": "2024-07-09T19:04:11Z",
+            "content": "The Biden administration’s green loan czar is looking to loan more than $1 billion to a green technology company that is connected to his old trade association and his current federal office.\r\nDepart… [+6530 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macdailynews.com"
+            },
+            "author": "MacDailyNews",
+            "title": "Three new games come to Apple Arcade in August, including ‘Temple Run: Legends’",
+            "description": "Three exciting new games land on Apple Arcade next month — Temple Run: Legends, Vampire Survivors+, and Apple Vision Pro…\nThe post Three new games come to Apple Arcade in August, including ‘Temple Run: Legends’ appeared first on MacDailyNews.",
+            "url": "https://macdailynews.com/2024/07/09/three-new-games-come-to-apple-arcade-in-august-including-temple-run-legends/",
+            "urlToImage": "https://149359564.v2.pressablecdn.com/wp-content/uploads/2024/07/240709_temple_run_legends.png",
+            "publishedAt": "2024-07-09T19:03:28Z",
+            "content": "Temple Run: Legends by Imangi Studios.\r\nThree exciting new games land on Apple Arcade next month Temple Run: Legends, Vampire Survivors+, and Apple Vision Pro spatial title Castle Crumble.\r\nOn August… [+4874 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Noria Energy",
+            "title": "Noria Energy Appoints Ron Stimmel as Chief Executive Officer to Lead the Company’s Next Phase of Strategic Growth and Innovation",
+            "description": "Noria Energy appoints Ron Stimmel as CEO to lead the company’s next phase of strategic growth and innovation in the floating solar PV industry......",
+            "url": "https://www.globenewswire.com/news-release/2024/07/09/2910712/0/en/Noria-Energy-Appoints-Ron-Stimmel-as-Chief-Executive-Officer-to-Lead-the-Company-s-Next-Phase-of-Strategic-Growth-and-Innovation.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/f52c23a4-e139-4fc2-ad85-336f56b55399",
+            "publishedAt": "2024-07-09T19:02:00Z",
+            "content": "SAUSALITO, Calif., July 09, 2024 (GLOBE NEWSWIRE) -- Noria Energy, a leading floating solar PV (FPV) developer, is pleased to announce the appointment of Ron Stimmel as the companys new Chief Executi… [+2893 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Andrew Miller, Cameron Cawthorne",
+            "title": "New White House digital staffer cheered social media ban on Trump: 'What took them so long?'",
+            "description": "The White House recently hired a staffer who praised social media platforms for banning former President Trump after the Jan. 6 riot at the Capitol.",
+            "url": "https://www.foxnews.com/politics/new-white-house-digital-staffer-cheered-social-media-ban-trump",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/file-25.jpg",
+            "publishedAt": "2024-07-09T19:01:27Z",
+            "content": "FIRST ON FOX: A newly hired White House digital staffer celebrated social media companies \"finally, mercifully\" banning President Trump on their platforms and asked \"What took them so long?\" in a 202… [+4923 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Linnea Ahlgren",
+            "title": "Meta and Vodafone collaborate to boost short-form video quality across Europe",
+            "description": "In a collab between big tech and telcos, Meta and Vodafone today announced the roll-out of network optimisation across 11 different markets in Europe to free up capacity and boost video quality.  It is no secret that video content has exploded on the internet…",
+            "url": "https://thenextweb.com/news/meta-vodafone-network-video-quality-boost-europe",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F07%2FMetasocialapps-e1720548057677.jpeg&signature=1429afd1efcdd8493b5e438be1a5fff3",
+            "publishedAt": "2024-07-09T19:01:17Z",
+            "content": "In a collab between big tech and telcos, Meta and Vodafone today announced the roll-out of network optimisation across 11 different markets in Europe to free up capacity and boost video quality. \r\nIt… [+2439 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "pymnts.com"
+            },
+            "author": "PYMNTS",
+            "title": "Google and Santander Offer Free AI Lessons",
+            "description": "Google and Santander have teamed to offer a free course on artificial intelligence (AI). Launched Tuesday (July 9), Santander | Google: Artificial Intelligence and Productivity is available in English, Spanish and Portuguese to anyone 18 and up, the global ba…",
+            "url": "https://www.pymnts.com/artificial-intelligence-2/2024/google-and-santander-offer-free-ai-lessons/",
+            "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/07/Google-Santander-AI-artificial-intelligence.png?w=457",
+            "publishedAt": "2024-07-09T19:00:25Z",
+            "content": "Google and Santander have teamed to offer a free course on artificial intelligence (AI).\r\nLaunched Tuesday (July 9), Santander | Google: Artificial Intelligence and Productivity is available in Engli… [+2742 chars]"
         },
         {
             "source": {
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Will Knight",
-            "title": "Apple Proved That AI Is a Feature, Not a Product",
-            "description": "Other tech companies want to sell you chatbots. Apple’s demos show the value of seeing the AI as an integrated, holistic experience rather than a stand-alone app or device.",
-            "url": "https://www.wired.com/story/apple-intelligence-ai-feature-not-product/",
-            "urlToImage": "https://media.wired.com/photos/666a406ecd2db4ffb305956c/191:100/w_1280,c_limit/WWDC-2024-AI-Fast-Forward-Business-2156971852.jpg",
-            "publishedAt": "2024-06-13T16:00:00Z",
-            "content": "Apple's otherworldly, flying-saucer headquarters in Cupertino, California, felt like a suitable venue this week for a bold and futuristic revamp of the companys most prized products. With iPhone sale… [+3390 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Makena Kelly",
-            "title": "Big Tech Is Giving Campaigns Both the Venom and the Antidote for GenAI",
-            "description": "Microsoft and Google have taught dozens of political groups how to use generative AI tools like their Copilot and Gemini chatbots, but the situation is a little complicated.",
-            "url": "https://www.wired.com/story/big-tech-microsoft-google-gen-ai-campaigns/",
-            "urlToImage": "https://media.wired.com/photos/66721630a97b95f445a18f45/191:100/w_1280,c_limit/politics_lab_big_tech_ai_campaigns.jpg",
-            "publishedAt": "2024-06-20T11:30:00Z",
-            "content": "Democratic tech leaders, like Zinc Labs executive director Matt Hodges, told me that training campaigns on these tools now could prevent headaches further down the road.\r\nWe don't want to start that … [+4335 chars]"
+            "author": "Scharon Harding, Ars Technica",
+            "title": "Nike Is Killing the App for Its $350 Self-Tying Sneakers",
+            "description": "After August 6, you won't be able to download the app that controls the Adapt BB, and it won't be getting any more updates.",
+            "url": "https://www.wired.com/story/nike-kills-adapt-bb-app-self-tying-sneaker/",
+            "urlToImage": "https://media.wired.com/photos/668d534f791d9d44f6741af9/191:100/w_1280,c_limit/Nike-Adapt-BB-Discontinued.jpg",
+            "publishedAt": "2024-07-09T19:00:00Z",
+            "content": "In 2019, Nike got closer than ever to its dreams of popularizing self-tying sneakers by releasing the Adapt BB. Using Bluetooth, the sneakers paired to the Adapt app that let users do things like tig… [+3698 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
+                "name": "Decider"
             },
-            "author": "Kyle Barr",
-            "title": "Samsung Is Already Taking Shots at Apple Watch’s Blood Oxygen Woes",
-            "description": "The Galaxy Watch 7 is touting new health monitoring tech prior to Unpacked, while Apple may postpone some of its Watch 10’s wellness features.",
-            "url": "https://gizmodo.com/samsung-is-already-taking-shots-at-apple-watchs-blood-oxygen-woes-2000377425",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/06/476905831046040d68f7ff6f08b1e14b.jpg",
-            "publishedAt": "2024-07-08T15:20:28Z",
-            "content": "Samsung only has two days to hype watch fans up about its next lineup of foldables and health-centric wearables, which we expect will debut at Samsung Unpacked 2024. To entice folks about the Galaxy … [+3582 chars]"
+            "author": "mliss1578",
+            "title": "Stream It Or Skip It: ‘Sasha Reid And The Midnight Order’ On Freeform, A Docuseries About A Group Of Women Who Get In The Minds Of Serial Killers",
+            "description": "Reid and her group of young investigators take on different cold cases in this docuseries.",
+            "url": "https://decider.com/2024/07/09/sasha-reid-and-the-midnight-order-freeform-review/",
+            "urlToImage": "https://decider.com/wp-content/uploads/2024/07/sasha-reid-and-the-midnight-order-1.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2024-07-09T19:00:00Z",
+            "content": "Sasha Reid And The Midnight Order sounds like the title of a mystery novel series or a Netflix crime procedural, but it’s actually a docuseries on Freeform about a Canadian criminologist and a group … [+5158 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "New Zealand Herald"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
+            "author": "Liam Dann",
+            "title": "Inside Economics: Is the big divide in rate-cut expectations credible? Why is the RBNZ so negative? Stats show businesses going backwards... how much cash would it take for you to quit your job?",
+            "description": "Liam Dann answers reader questions and takes a deep dive.",
+            "url": "https://www.nzherald.co.nz/business/inside-economics-is-the-big-divide-in-rate-cut-expectations-credible-why-is-the-rbnz-so-negative-stats-show-businesses-going-backwardshow-much-cash-would-it-take-for-you-to-quit-your-job/BX4ZFXVRIVD7HJUHX5CMXUQ5UY/",
+            "urlToImage": "https://www.nzherald.co.nz/resizer/v2/DEKXG7QPC5AP3A3R4VES53YRTE.jpg?auth=95da3cabf84b0d949b31cf8b6dab63f6f79fdbca045c4be0634f08f7112ae894&width=1200&height=675&quality=70&smart=true",
+            "publishedAt": "2024-07-09T19:00:00Z",
+            "content": "I read in the preview for todays interest rate decision that markets are expecting the first cut by November but the Reserve Bank still forecasts it for September next year. I understand that there i… [+13011 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tecmundo.com.br"
+            },
+            "author": "Bianca Seabra",
+            "title": "O que é SafeSearch e como utilizá-lo no Google?",
+            "description": "O SafeSearch é um recurso do Google conhecido por sua capacidade de filtrar conteúdos na web, ajudando a manter a navegação na internet mais segura, especialmente para crianças e adolescentes.Ao ativar o SafeSearch, você garante que conteúdos explícitos e ina…",
+            "url": "https://www.tecmundo.com.br/seguranca/286611-safesearch-utiliza-lo-google.htm",
+            "urlToImage": "https://tm.ibxk.com.br/2024/07/03/03175517416334.jpg?ims=1200xorig",
+            "publishedAt": "2024-07-09T19:00:00Z",
+            "content": "O SafeSearch é um recurso do Google conhecido por sua capacidade de filtrar conteúdos na web, ajudando a manter a navegação na internet mais segura, especialmente para crianças e adolescentes.\r\nAo at… [+4776 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Feber.se"
+            },
+            "author": "Hugo Engström",
+            "title": "Sonos Roam 2 gör en inte galen längre",
+            "description": "Äntligen en till knapp\n\n\n\n\n\n\nNär Roger började använda första generationens Sonos Roam gjorde den honom både gråhårigare och galen. Som tur var klarar jag mig från samma öde när jag nu har testat den andra versionen av Sonos minsta bärbara högtalare. Företage…",
+            "url": "https://feber.se/pryl/sonos-roam-2-gor-en-inte-galen-langre/469348/",
+            "urlToImage": "https://static.feber.se/article_images/59/34/49/593449.jpg",
+            "publishedAt": "2024-07-09T19:00:00Z",
+            "content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+34818 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Brittany Vincent",
+            "title": "Save up to 19% on Samsung tablets ahead of Prime Day",
+            "description": "Get this powerful little tablet for a great price while supplies last. Plus, more deals on Samsung's top-rated Galaxy Tabs.",
+            "url": "https://www.cbsnews.com/essentials/amazon-samsung-galaxy-tablet-deals-prime-day/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/06/24/29e3b633-1c53-488e-9a98-63717620f4fb/thumbnail/1200x630/b9643f641eaa427a6c519a6029e29a2d/samsunglifestyletab.png?v=2287029998c5246c93d6dd038eb30603",
+            "publishedAt": "2024-07-09T18:59:42Z",
+            "content": "Samsung\r\nFinding an affordable tablet that ticks all the boxes can be frustrating. You don't want to spend the same amount you'd spend on an iPad. And you don't want to buy a laptop for something you… [+4892 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neowin"
+            },
+            "author": "Aditya Tiwari",
+            "title": "Ex-Microsoft executive flaunts the first ever copy of Windows 95",
+            "description": "A former Microsoft executive shared images of the first ever copy of Windows 95, fresh out of the production line. The legacy operating system was released to manufacturing 28 years ago this month. Read more...",
+            "url": "https://www.neowin.net/news/ex-microsoft-executive-flaunts-the-first-ever-copy-of-windows-95/",
+            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2024/07/1720549899_windows_95_first_ever_copy_story.jpg",
+            "publishedAt": "2024-07-09T18:58:01Z",
+            "content": "Image via Brad Silverberg\r\nA rare collector's item for the tech world recently appeared on social media. Former Senior VP and product manager at Microsoft Brad Silverberg took to his social media acc… [+2104 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Lucas Nolan, Lucas Nolan",
+            "title": "'Rolling Surveillance Devices:' Chinese Self-Driving Cars Are Mapping America",
+            "description": "As Chinese companies test their autonomous vehicles on American roads, concerns are growing about the vast amounts of data these “rolling surveillance devices” are collecting and the potential national security implications.\nThe post ‘Rolling Surveillance Dev…",
+            "url": "https://www.breitbart.com/tech/2024/07/09/rolling-surveillance-devices-chinese-self-driving-cars-are-mapping-america/",
+            "urlToImage": "https://media.breitbart.com/media/2024/07/Chinese-flag-over-American-flag-640x335.jpg",
+            "publishedAt": "2024-07-09T18:57:27Z",
+            "content": "As Chinese companies test their autonomous vehicles on American roads, concerns are growing about the vast amounts of data these rolling surveillance devices are collecting and the potential national… [+3110 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PhoneArena"
+            },
+            "author": "Alan Friedman",
+            "title": "T-Mobile's low band spectrum that Dish couldn't afford is still in play",
+            "description": "Utility companies could end up with the 800MHz low-band spectrum that T-Mobile is looking to auction off.",
+            "url": "https://www.phonearena.com/news/utilities-have-interest-t-mobile-800mhz-spectrum_id160230",
+            "urlToImage": "https://m-cdn.phonearena.com/images/article/160230-wide-two_1200/T-Mobiles-low-band-spectrum-that-Dish-couldnt-afford-is-still-in-play.jpg",
+            "publishedAt": "2024-07-09T18:55:36Z",
+            "content": "Enjoy the hottest mobile tech storylines, delivered straight to your inbox."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Freerepublic.com"
+            },
+            "author": "Science Alert",
+            "title": "Electric Vehicle Batteries Surprising New Source of 'Forever Chemical' Pollution",
+            "description": "Scientists have uncovered a new source of hazardous \"forever chemical\" pollution: the rechargeable lithium-ion batteries found in most electric vehicles. Some lithium-ion battery technologies use a class of PFAS chemicals, or per-and polyfluoroalkyl substance…",
+            "url": "https://freerepublic.com/focus/f-chat/4249967/posts",
             "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "publishedAt": "2024-07-09T18:52:23Z",
+            "content": "Skip to comments.\r\nElectric Vehicle Batteries Surprising New Source of 'Forever Chemical' PollutionScience Alert ^\r\n | JULY 9, 2024\r\n | CATHERINE BOUDREAU \r\nPosted on 07/09/2024 11:52:23 AM PDT by Re… [+6720 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Kiran Rathee",
+            "title": "No recharge for MTNL, calls to be routed to BSNL",
+            "description": "Government plans to restructure debt and transfer MTNL's operations to BSNL due to financial struggles. Staff may opt for VRS or be transferred. Lack of latest telecom tech has led to subscriber losses for both firms.",
+            "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/no-recharge-for-mtnl-calls-to-be-routed-to-bsnl/articleshow/111615251.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-111615257,width-1200,height-630,imgsize-11260,overlay-economictimes/photo.jpg",
+            "publishedAt": "2024-07-09T18:50:19Z",
+            "content": "State-run Mahanagar Telephone Nigam is nearing the end of its independent existence with the government close to finalising a 30,000-crore debt restructuring, after which the entire operations will b… [+2006 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Engadget",
-            "title": "Amazon Prime Day 2024: The best deals from Apple, Anker and more",
-            "description": "Amazon Prime Day 2024 will arrive next week, bringing a deluge of discounts and deals on everything from household essentials to clothing to tech. Even though the shopping event is limited to 48 hours, Amazon typically has early Prime Day deals rolling out fo…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a5fdbfcf-5245-4842-9e1a-975fecd43ea0",
-            "urlToImage": null,
-            "publishedAt": "2024-07-08T16:00:35Z",
-            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Alex Heath",
-            "title": "This is Big Tech’s playbook for swallowing the AI industry",
-            "description": "Amazon has replicated an antitrust-avoidance playbook pioneered by Microsoft with its hiring of most of the team behind buzzy AI startup Adept.",
-            "url": "https://www.theverge.com/2024/7/1/24190060/amazon-adept-ai-acquisition-playbook-microsoft-inflection",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/XmxFkbRPxPAYt8-iDv7cwB7O8M4=/0x0:5213x3476/1200x628/filters:focal(2689x1509:2690x1510)/cdn.vox-cdn.com/uploads/chorus_asset/file/25513827/1445795057.jpg",
-            "publishedAt": "2024-07-01T20:01:25Z",
-            "content": "This is Big Techs playbook for swallowing the AI industry\r\nThis is Big Techs playbook for swallowing the AI industry\r\n / With Amazons hiring of the team behind a buzzy AI startup, a pattern is emergi… [+3398 chars]"
+            "author": "Sean O'Neill",
+            "title": "Marriott’s Latest Tech Play Aims to Streamline Business Travel",
+            "description": "Marriott has debuted a suite of travel tools to let road warriors book, manage, and expense business travel without having to visit third-party services.",
+            "url": "https://finance.yahoo.com/news/marriott-latest-tech-play-aims-185008174.html",
+            "urlToImage": "https://media.zenfs.com/en/skift_501/763bb2c00f48f24809626e9dacfad2e5",
+            "publishedAt": "2024-07-09T18:50:08Z",
+            "content": "Rendering of Element by Westin Wroclaw in Poland. Source: Marriott International. Marriott International\r\nMarriott International expanded further into the business travel management space Tuesday, ai… [+2589 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "Skift"
+            },
+            "author": "Skift",
+            "title": "Marriott’s Latest Tech Play Aims to Streamline Business Travel",
+            "description": "Marriott has debuted a suite of travel tools to let road warriors book, manage, and expense business travel without having to visit third-party services. -Sean O'Neill",
+            "url": "http://skift.com/2024/07/09/marriotts-latest-tech-play-aims-to-streamline-business-travel/",
+            "urlToImage": "https://skift.com/wp-content/uploads/2024/07/Rendering-of-Element-by-Westin-Wroclaw-source-marriott-international-scaled.jpg",
+            "publishedAt": "2024-07-09T18:50:08Z",
+            "content": "Marriott International expanded further into the business travel management space Tuesday, aiming to drive more direct bookings from road warriors and taking share from middlemen distributors.\r\nThe w… [+2224 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "D&H Distributing",
+            "title": "D&H Distributing Receives Multiple Partner of the Year and Industry Awards",
+            "description": "D&H Distributing has earned multiple distinctions from esteemed sources in the IT channel.......",
+            "url": "https://www.globenewswire.com/news-release/2024/07/09/2910697/0/en/D-H-Distributing-Receives-Multiple-Partner-of-the-Year-and-Industry-Awards.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/520bab6b-1354-456f-b25a-c7d8e540409f",
+            "publishedAt": "2024-07-09T18:50:00Z",
+            "content": "HARRISBURG, Pa., July 09, 2024 (GLOBE NEWSWIRE) -- D&amp;H Distributing, a leading provider of technology solutions to the North American channel, announces it has earned a noteworthy list of awards … [+7748 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mediagazer.com"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Valentina Palladino",
-            "title": "The best early Prime Day deals for 2024",
-            "description": "Amazon Prime Day 2024 is officially a couple of weeks away now but we’re already starting to see early Prime Day deals pop up. This was expected: Amazon may deem July Prime Day a two-day event, but for years, the online retailer has hosted lead-up deals in or…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9efc1bef-ae1c-4749-a904-2a3f12da5e39",
-            "urlToImage": null,
-            "publishedAt": "2024-06-25T05:08:34Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "David Nield",
-            "title": "5 Ways to Use Tech to Improve Your Wake-Up Routine",
-            "description": "For many of us, getting up can be a chore most mornings, as a peaceful slumber or a serene dream is interrupted by the shrill chimes of a smartphone alarm. It’s all too easy to keep hitting that snooze button until the last possible momentto stay where it’s c…",
-            "url": "https://gizmodo.com/5-ways-to-use-tech-to-improve-your-wake-up-routine-1851563681",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f2cb330817f9620b7a76de0704ea18b9.jpg",
-            "publishedAt": "2024-06-28T11:00:00Z",
-            "content": "For many of us, getting up can be a chore most mornings, as a peaceful slumber or a serene dream is interrupted by the shrill chimes of a smartphone alarm. Its all too easy to keep hitting that snooz… [+4392 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Richard Lawler",
-            "title": "Instagram’s ‘Made with AI’ label swapped out for ‘AI info’ after photographers’ complaints",
-            "description": "Meta is replacing its label for AI content after photographers complained that it tagged real-life photos as AI-generated.",
-            "url": "https://www.theverge.com/2024/7/1/24190026/meta-instagram-facebook-made-with-ai-info-label-metadata",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ulpRFn-5-7Efu8732UbL6C2DxJM=/0x0:1723x1414/1200x628/filters:focal(862x707:863x708)/cdn.vox-cdn.com/uploads/chorus_asset/file/25513823/01_IG_AI_Generated_Content_Lable_Carousel_01_2_crop.jpg",
-            "publishedAt": "2024-07-01T17:14:15Z",
-            "content": "Instagrams Made with AI label swapped out for AI info after photographers complaints\r\nInstagrams Made with AI label swapped out for AI info after photographers complaints\r\n / The AI label from Meta a… [+1992 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "The AI upgrade cycle is here",
-            "description": "The new Apple Intelligence features coming to iOS 18 could be impressive, but they might also just be driving another upgrade cycle.",
-            "url": "https://www.theverge.com/2024/6/12/24176494/apple-intelligence-ai-upgrade-cycle-here",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/P5dOxew0xBSysV0lIfow9ik4eso=/0x0:2040x1360/1200x628/filters:focal(1309x713:1310x714)/cdn.vox-cdn.com/uploads/chorus_asset/file/24931973/236794_iPhone_15_pro_pro_Max_VPavic_0017.jpg",
-            "publishedAt": "2024-06-12T12:00:00Z",
-            "content": "The AI upgrade cycle is here\r\nThe AI upgrade cycle is here\r\n / Will it be worth upgrading your iPhone for Apple Intelligence?\r\nByJay Peters, a news editor who writes about technology, video games, an… [+4024 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Lucas Ropek",
-            "title": "Elon Musk Wants You to Have a Baby",
-            "description": "We all know that Elon Musk likes procreation. He has 11 kids, after all. The tech billionaire currently has twins with an executive at Neuralink, two children with his on-again-off-again girlfriend Grimes, and a gaggle of children with his ex-wife, Justine Wi…",
-            "url": "https://gizmodo.com/elon-musk-tesla-spacex-dropping-birthrates-1851540740",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1d0a8a0c5b57179167bf61c0aff68631.png",
-            "publishedAt": "2024-06-14T20:11:00Z",
-            "content": "We all know that Elon Musk likes procreation. He has 11 kids, after all. The tech billionaire currently has twins with an executive at Neuralink, two children with his on-again-off-again girlfriend G… [+3976 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Maxwell Zeff",
-            "title": "Apple Pay Later Is Dead, Your Debt Is Not",
-            "description": "Apple says it’s shutting down Apple Pay Later, the tech giant’s “buy now, pay later” loan service, less than a year after launching the product to United States users in October 2023. Apple announced the move in a statement to 9to5Mac on Monday, saying it wou…",
-            "url": "https://gizmodo.com/apple-pay-later-is-dead-affirm-loans-financing-1851544971",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/763ba4ecb1ef569d8a515af6eed5290e.jpg",
-            "publishedAt": "2024-06-17T20:00:00Z",
-            "content": "Apple says its shutting down Apple Pay Later, the tech giants buy now, pay later loan service, less than a year after launching the product to United States users in October 2023. Apple announced the… [+2580 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Dua Rashid",
-            "title": "I Love JBL's New Portable, Waterproof Speakers",
-            "description": "I am the person in my friend group responsible for all of our tech needs, and I take my job very seriously. I’ve got a spare power bank, an instant camera, and, most importantly, a Bluetooth speaker with me at all times, no matter the occasion. So you can und…",
-            "url": "https://gizmodo.com/jbl-clip-5-go-4-budget-speakers-1851526767",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/5132292397cbe7170fe184d33914fbe2.jpg",
-            "publishedAt": "2024-06-11T13:35:00Z",
-            "content": "I am the person in my friend group responsible for all of our tech needs, and I take my job very seriously. Ive got a spare power bank, an instant camera, and, most importantly, a Bluetooth speaker w… [+3222 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Wes Davis",
-            "title": "Facebook and Instagram’s ‘pay or consent’ ad model violates the DMA, says the EU",
-            "description": "Meta’s paid opt-out plan for Facebook and Instagram ads allegedly violates the EU by not giving users an option for a “similar experience” with less personalization.",
-            "url": "https://www.theverge.com/2024/7/1/24189796/eu-meta-dma-violation-pay-consent-ads-model",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/E5LPkCRcJj-txc18rOrA4AFA5CI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24814378/STK450_European_Union_02.jpg",
-            "publishedAt": "2024-07-01T12:57:16Z",
-            "content": "Facebook and Instagrams pay or consent ad model violates the DMA, says the EU\r\nFacebook and Instagrams pay or consent ad model violates the DMA, says the EU\r\n / Meta joins Apple as the second big tec… [+2892 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Benj Edwards",
-            "title": "Softbank unveils plans to cancel out angry customer emotions using AI",
-            "description": "Real-time voice modification tech seeks to reduce stress in Japanese call center staff.",
-            "url": "https://arstechnica.com/information-technology/2024/06/new-emotion-canceling-ai-tech-aims-to-shield-call-workers-from-angry-customers/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/emotion_cancel_1-760x380.jpg",
-            "publishedAt": "2024-06-18T17:09:25Z",
-            "content": "61\r\nJapanese telecommunications giant SoftBank recently announced that it has been developing \"emotion-canceling\" technology powered by AI that will alter the voices of angry customers to sound calme… [+5281 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Benj Edwards",
-            "title": "Apple and OpenAI currently have the most misunderstood partnership in tech",
-            "description": "Apple's AI moves are nothing new for a company that has integrated outside tech for decades.",
-            "url": "https://arstechnica.com/information-technology/2024/06/apple-and-openai-currently-have-the-most-misunderstood-partnership-in-tech/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/man_talks_into_smartphone_1200-760x380.jpg",
-            "publishedAt": "2024-06-11T17:29:01Z",
-            "content": "Enlarge/ He isn't using an iPhone, but some people talk to Siri like this.\r\n7\r\nOn Monday, Apple premiered \"Apple Intelligence\" during a wide-ranging presentation at its annual Worldwide Developers Co… [+4172 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Jon Brodkin",
-            "title": "ISPs ask FCC for tax on Big Tech to fund broadband networks and discounts",
-            "description": "USTelecom cites death of discount program in new call for payments from Big Tech.",
-            "url": "https://arstechnica.com/tech-policy/2024/06/isps-ask-fcc-for-tax-on-big-tech-to-fund-broadband-networks-and-discounts/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/08/data-cash-Aurich-Lawson-Getty-760x380.jpg",
-            "publishedAt": "2024-06-10T18:40:34Z",
-            "content": "27\r\nInternet service providers are again urging the Federal Communications Commission to impose new fees on Big Tech firms and use the money to subsidize broadband network deployment and affordabilit… [+3008 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Financial Times",
-            "title": "TDK claims insane energy density in solid state battery breakthrough",
-            "description": "Apple supplier says new tech has 100 times the capacity of its current batteries.",
-            "url": "https://arstechnica.com/gadgets/2024/06/tdk-claims-insane-energy-density-in-solid-state-battery-breakthrough/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/headphones-guy-760x380.jpg",
-            "publishedAt": "2024-06-17T13:35:24Z",
-            "content": "Enlarge/ TDK says its new ceramic materials for batteries will improve the performance of small consumer electronics devices such as smartwatches and wireless headphones\r\n93\r\nJapans TDK is claiming a… [+4260 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Jordan Hart",
-            "title": "Tech giants like Google and Meta are admitting AI could actually hurt their businesses",
-            "description": "AI seems like it's everywhere, with companies racing to develop the new tech. Still, tech giants have started acknowledging the risks, too.",
-            "url": "https://www.businessinsider.com/microsoft-google-meta-all-admitting-the-risks-ai-poses-2024-7",
-            "urlToImage": "https://i.insider.com/66857449268f62ba18a73165?width=1200&format=jpeg",
-            "publishedAt": "2024-07-03T16:42:42Z",
-            "content": "Google CEO Sundar Pichai (left) and Meta CEO Mark Zuckerberg (right) are among the tech execs who've been excited about AI.Justin Sullivan via Getty Images; Alex Wong via Getty Images\r\n<ul><li>Big Te… [+2660 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Wes Davis",
-            "title": "The Apple Watch Series 10 may get an Ultra-sized screen",
-            "description": "A new rumor from Bloomberg suggests that the Apple Watch Series 10 will have a larger screen and thinner chassis and that a plastic Watch SE is in the works.",
-            "url": "https://www.theverge.com/2024/7/7/24193595/apple-watch-x-series-10-thinner-bigger-screen-ultra-3-plastic-se",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/mvYyZHSJ0uFzThN5k5awQ-zzhNg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24933463/236790_Apple_watch_9_Ultra_2_AKrales_0902.jpg",
-            "publishedAt": "2024-07-07T15:39:43Z",
-            "content": "The Apple Watch Series 10 may get an Ultra-sized screen\r\nThe Apple Watch Series 10 may get an Ultra-sized screen\r\n / Meanwhile, a cheaper, plastic Watch SE could be in the offing.\r\nByWes Davis, a wee… [+1978 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Quentyn Kennemer",
-            "title": "Mark Zuckerberg experiments with six-window Quest VR multitasking",
-            "description": "Meta’s version 67 of Horizon OS for Quest headsets supports more virtual windows that you can put in more places and new creator videos in the Horizon Feed.",
-            "url": "https://www.theverge.com/2024/7/3/24191722/meta-quest-horizon-os-67-multitasking-update",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/aY8-8ZSzCvmFkz-0RCbdB0O6VT0=/0x149:1920x930/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25517132/meta_quest_v67_windows.jpg",
-            "publishedAt": "2024-07-03T20:16:36Z",
-            "content": "Mark Zuckerberg experiments with six-window Quest VR multitasking\r\nMark Zuckerberg experiments with six-window Quest VR multitasking\r\n / The new Horizon OS version 67 update for Metas Quest headsets … [+2094 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Lauren Feiner",
-            "title": "A meeting to consider a bipartisan privacy bill just crumbled",
-            "description": "The House Energy and Commerce Committee called off the meeting to consider the American Privacy Rights Act and several other bills.",
-            "url": "https://www.theverge.com/2024/6/27/24187313/house-energy-commerce-committee-cancels-apra-privacy-bill-markup",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/eORZBiJAhjuLbVNX52SGR3YVlqw=/0x0:3496x2331/1200x628/filters:focal(1748x1166:1749x1167)/cdn.vox-cdn.com/uploads/chorus_asset/file/25508680/1695203108.jpg",
-            "publishedAt": "2024-06-27T20:49:43Z",
-            "content": "A meeting to consider a bipartisan privacy bill just crumbled\r\nA meeting to consider a bipartisan privacy bill just crumbled\r\n / The House Energy and Commerce Committee abruptly canceled a meeting wh… [+6078 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Wes Davis",
-            "title": "Verizon’s new V logo arrives as the lines blur between 5G, Fios, and streaming",
-            "description": "Verizon updated its logo to go with new fixed wireless and fiber home internet plans with bundled streaming and cloud services under the “myHome” moniker.",
-            "url": "https://www.theverge.com/2024/6/26/24186373/verizon-new-logo-myhome-internet-plans",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/kTrKYzuNPbz6EHeH6P9f0VpdxpI=/0x0:2144x1156/1200x628/filters:focal(859x611:860x612)/cdn.vox-cdn.com/uploads/chorus_asset/file/25506946/Alt_Symbol_Wordmark.png",
-            "publishedAt": "2024-06-26T15:13:09Z",
-            "content": "Verizons new V logo arrives as the lines blur between 5G, Fios, and streaming\r\nVerizons new V logo arrives as the lines blur between 5G, Fios, and streaming\r\n / The Verizon checkmark is gone as the c… [+1879 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Wes Davis",
-            "title": "This new Mac app uses animated flies to tell you when to take out the trash",
-            "description": "I’ve never been so excited to have a full Trash directory.",
-            "url": "https://www.theverge.com/2024/6/30/24189505/bananabin-app-flies-trash-macos-sonoma",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/pgADxMdvTCeRf7f0xNC7C6d2DMc=/0x0:1512x908/1200x628/filters:focal(1247x784:1248x785)/cdn.vox-cdn.com/uploads/chorus_asset/file/25512791/Screenshot_2024_06_30_at_4.37.29_PM.png",
-            "publishedAt": "2024-06-30T21:42:16Z",
-            "content": "This new Mac app uses animated flies to tell you when to take out the trash\r\nThis new Mac app uses animated flies to tell you when to take out the trash\r\n / Ive never been so excited to have a full T… [+1775 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "techkritiko@gmail.com (Jay Bonggolto)",
-            "title": "The Google Pixel 9 might crush the Galaxy S24 Ultra's screen game",
-            "description": "The Pixel 9 series is supposedly getting Samsung's latest and greatest OLED tech.",
-            "url": "https://www.androidcentral.com/phones/the-google-pixel-9-might-crush-the-galaxy-s24-ultras-screen-game",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/NeW7yGLqNLaYFmz8oh4bci-1200-80.jpg",
-            "publishedAt": "2024-07-01T10:56:33Z",
-            "content": "What you need to know\r\n<ul><li>The Google Pixel 9 might use Samsung’s top-notch M14 OLED display.</li><li>Samsung' advanced M14 screens supposedly offer better brightness, longevity, and power effici… [+2149 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "VentureBeat"
-            },
-            "author": "Dean Takahashi",
-            "title": "Girls in Tech closes its doors after 17 years",
-            "description": "The Girls in Tech women's tech community is closing its doors after 17 years, according to a newsletter from founder Adriana Gascoigne.",
-            "url": "https://venturebeat.com/games/girls-in-tech-closes-its-doors-after-17-years/",
-            "urlToImage": "https://venturebeat.com/wp-content/uploads/2022/10/girls-3.jpg?w=1024?w=1200&strip=all",
-            "publishedAt": "2024-07-08T16:31:00Z",
-            "content": "GamesBeat is excited to partner with Lil Snack to have customized games just for our audience! We know as gamers ourselves, this is an exciting way to engage through play with the GamesBeat content y… [+1547 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "jerry.hildenbrand@futurenet.com (Jerry Hildenbrand)",
-            "title": "Ask Jerry: Does fast charging hurt my battery?",
-            "description": "Have a question about the tech in your life? If so, maybe we can get them answered!",
-            "url": "https://www.androidcentral.com/phones/ask-jerry-does-fast-charging-hurt-my-phone-battery",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/HrmCzNcQDgwjg2sArrBf7S-1200-80.jpg",
-            "publishedAt": "2024-06-10T20:00:16Z",
-            "content": "Welcome to Ask Jerry, where we talk about any and all the questions you might have about the smart things in your life. I'm Jerry, and I have spent the better part of my life working with tech. I hav… [+5109 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Adrian Marlow",
-            "title": "Get 20% Off Tech Accessories With Journey's Fourth of July Sale",
-            "description": "Cue the fireworks: Journey is giving 20% off on countless tech accessories for the Fourth of July.",
-            "url": "https://www.cnet.com/deals/get-20-off-tech-accessories-for-journeys-fourth-of-july-sale/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/feab3476a93eacbeeb53496703b29edee5f82589/hub/2024/07/01/2e5aab9c-8c60-4430-9ab1-78b949292672/journeys-july4.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2024-07-01T18:40:00Z",
-            "content": "The Fourth of July is just a few days away and the deals are flowing in. Journey, which is known for their high quality battery packs, USB charger and other tech accessories, is having a huge sitewid… [+850 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Ian Sherr",
-            "title": "Apple Partners With OpenAI for ChatGPT on iPhones, iPads and Macs - CNET",
-            "description": "At WWDC, the tech giant announced a partnership with the leading AI startup as part of its Apple Intelligence service.",
-            "url": "https://www.cnet.com/tech/mobile/apple-partners-with-openai-for-chatgpt-on-iphones-ipads-and-macs/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/52b35f028cd7d2a67c558d71d4f984d68524255c/hub/2024/03/29/924e6daf-06f6-4bbc-a6c8-5b9ca7a75fa5/chatgpt-00000.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2024-06-10T18:39:54Z",
-            "content": "When Apple's Siri voice assistant launched in 2011, it was on the bleeding edge of artificial intelligence technology. Now Apple's partnering with leading startup OpenAI to bring the next generation … [+2388 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Peter Guest",
-            "title": "Europe Scrambles for Relevance in the Age of AI",
-            "description": "With chatbot and AI development largely coming from the US, some EU entrepreneurs and politicians say local champions are needed to prevent a cultural flattening.",
-            "url": "https://www.wired.com/story/europe-scrambles-relevance-ai/",
-            "urlToImage": "https://media.wired.com/photos/6672178f5a306ae960db6802/191:100/w_1280,c_limit/061824-business-europe-ai.jpg",
-            "publishedAt": "2024-06-20T06:00:00Z",
-            "content": "That concentration of power is uncomfortable for European governments. It makes European companies downstream customers of the future, importing the latest services and technology in exchange for mon… [+3311 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Quentyn Kennemer",
-            "title": "Bose’s QuietComfort Earbuds II reach a record-low $169.95",
-            "description": "The Bose QuietComfort Earbuds II are down to a record-low $169.95. We’re also seeing the lowest prices so far on Tile Mate trackers and the Samsung Galaxy Tab S9 Plus.",
-            "url": "https://www.theverge.com/2024/7/8/24194085/bose-quietcomfort-earbuds-ii-tile-mate-deal-sale",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/-8FKzf4Yx1sDK7mGj2kAhDSzwWQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24024005/DSCF9291_3.jpg",
-            "publishedAt": "2024-07-08T17:59:23Z",
-            "content": "Boses QuietComfort Earbuds II reach a record-low $169.95\r\nBoses QuietComfort Earbuds II reach a record-low $169.95\r\n / You can also save on Tile Mate trackers and the Samsung Galaxy Tab S9 Plus both … [+2896 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Wes Davis",
-            "title": "BMW M5 gets its first plug — and gains a lot of weight",
-            "description": "BMW announced the 2025 M5 plug-in hybrid electric sedan, a car that weighs about 1,000 pounds more than its predecessor and gets 25 miles of electric-only driving range.",
-            "url": "https://www.theverge.com/2024/6/26/24186750/2025-bmw-m5-plug-in-hybrid",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/hFTUq1Aiv_c0vvFJqHAzOM80DtY=/0x0:2250x1500/1200x628/filters:focal(1125x750:1126x751)/cdn.vox-cdn.com/uploads/chorus_asset/file/25507794/2025_BMW_M5_lowRes.jpg",
-            "publishedAt": "2024-06-26T22:22:33Z",
-            "content": "BMW M5 gets its first plug and gains a lot of weight\r\nBMW M5 gets its first plug and gains a lot of weight\r\n / BMWs fully electric M car is still a couple of years out, though.\r\nByWes Davis, a weeken… [+2364 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Quentyn Kennemer",
-            "title": "The Atari 400 Mini plays dozens of classic games, and it’s 15 percent off",
-            "description": "The Atari 400 Mini retro console is down to $109 at Amazon, a new all-time low. It emulates Atari’s earliest home consoles and comes with 25 games.",
-            "url": "https://www.theverge.com/2024/7/1/24190280/atar-400-mini-retro-console-deal-sale",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/IzeRqcQKdEy1MsARb0-5UD9I-NI=/0x0:750x417/1200x628/filters:focal(565x264:566x265)/cdn.vox-cdn.com/uploads/chorus_asset/file/25514397/atari_400_mini_2.png",
-            "publishedAt": "2024-07-01T22:17:36Z",
-            "content": "The Atari 400 Mini plays dozens of classic games, and its 15 percent off\r\nThe Atari 400 Mini plays dozens of classic games, and its 15 percent off\r\n / The miniaturized redux of the Atari 400 comes wi… [+2625 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Wes Davis",
-            "title": "Apple Intelligence: every new AI feature coming to the iPhone and Mac",
-            "description": "These are all of the biggest AI features Apple announced are coming to its iPhone, iPad, Mac, and more at WWDC 2024.",
-            "url": "https://www.theverge.com/2024/6/10/24175405/wwdc-apple-ai-news-features-ios-18-macos-15-iphone-ipad-mac",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/dYZO72VW-nmwCObpFh-FjnIaXIE=/0x0:1527x856/1200x628/filters:focal(764x428:765x429)/cdn.vox-cdn.com/uploads/chorus_asset/file/25485545/lcimg_ca61fcb8_ae16_4dcb_8b5a_e5ca6510cfad.jpeg",
-            "publishedAt": "2024-06-10T18:11:00Z",
-            "content": "Apple Intelligence: every new AI feature coming to the iPhone and Mac\r\nApple Intelligence: every new AI feature coming to the iPhone and Mac\r\n / AI comes to Cupertino.\r\nByWes Davis, a weekend editor … [+2606 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Quentyn Kennemer",
-            "title": "Meta tests Vision Pro-like freeform virtual screen placement for Quest headsets",
-            "description": "An experimental Meta Quest feature allows you to freely move virtual windows around, similar to the Vision Pro’s spatial computing setup.",
-            "url": "https://www.theverge.com/2024/6/25/24185869/meta-quest-vr-virtual-screen-placement",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/-rsxxYBTcz6dJBbL59ENSwH0kDg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24954366/236805_Quest_3_and_Ray_Ban_meta_glasses_BFarsace_0027.jpg",
-            "publishedAt": "2024-06-26T00:22:54Z",
-            "content": "Meta tests Vision Pro-like freeform virtual screen placement for Quest headsets\r\nMeta tests Vision Pro-like freeform virtual screen placement for Quest headsets\r\n / Its only available to beta testers… [+2504 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Ian Sherr",
-            "title": "Samsung Is Already Working on the Next-Gen Galaxy Ring Ahead of Unpacked",
-            "description": "The tech giant appears to be experimenting with a more square-shaped ring as a follow-up to its first version.",
-            "url": "https://www.cnet.com/tech/mobile/samsungs-already-working-on-the-next-gen-galaxy-ring-ahead-of-unpacked/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/0ade9e509889df9f7c8d240efacc18f66fbbbbf3/hub/2024/01/17/bc373c67-3d66-4c1e-8312-6b588b373b22/samsung-galaxy-ring-clean.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2024-07-09T17:00:00Z",
-            "content": "Samsung has previewed its Galaxy Ring wearable sensor several times ahead of its Unpacked 2024 event, which is set for July 10 in Paris. During Unpacked, the company is expected to announce upgraded … [+3589 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Maxwell Zeff",
-            "title": "Apple Won't Pay for ChatGPT, Will You?",
-            "description": "Apple and OpenAI announced a landmark partnership this week to ingrain ChatGPT into every new iPhone, iPad, and Mac. The agreement has obvious benefits for Apple, giving it the best AI chatbot on the market. However, Apple will not pay OpenAI to use ChatGPT o…",
-            "url": "https://gizmodo.com/apple-openai-chatgpt-apple-intelligence-iphone-ipad-1851537642",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/328bf2c4e2f291bc9a82b9a4ffb80805.jpg",
-            "publishedAt": "2024-06-13T14:40:00Z",
-            "content": "Apple and OpenAI announced a landmark partnership this week to ingrain ChatGPT into every new iPhone, iPad, and Mac. The agreement has obvious benefits for Apple, giving it the best AI chatbot on the… [+2651 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "nandika.iyerravi@futurenet.com (Nandika Ravi)",
-            "title": "Another DMA-like law is coming for Google, Meta, and others",
-            "description": "India is bringing another DMA-like bill for tech firms, laying out strict compliance obligations that can impact their business model.",
-            "url": "https://www.androidcentral.com/apps-software/india-proposes-new-digital-competition-bill",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QYMGRdX8v2NYXa85ioxbTC-1200-80.jpg",
-            "publishedAt": "2024-06-12T18:46:00Z",
-            "content": "What you need to know\r\n<ul><li>India is proposing a DMA-like law called the Digital Competition Bill, which aims to prevent companies like Google, Meta, and Amazon from dominating the market through … [+5416 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Jordan Hart",
-            "title": "Instagram boss says he loves Mark Zuckerberg's new style",
-            "description": "Meta's Mark Zuckerberg has shifted from typical tech attire to a trendier look, a move that Instagram's Adam Mosseri praised.",
-            "url": "https://www.businessinsider.com/instagram-adam-mosseri-loves-mark-zuckerbergs-new-style-chain-necklace-2024-6",
-            "urlToImage": "https://i.insider.com/6669bb18764df1611258f6df?width=1200&format=jpeg",
-            "publishedAt": "2024-06-12T16:49:32Z",
-            "content": "Adam Mosseri is all for Mark Zuckerberg's glow up.The Colin and Samir Show/YouTube\r\n<ul><li>Instagram boss Adam Mosseri is loving Mark Zuckerberg's new style.</li><li>Mosseri said the Meta CEO is fin… [+1560 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Geoff Weiss",
-            "title": "The demise of Cisco and Sun are cautionary tales. Nvidia's Huang is worried history could repeat itself.",
-            "description": "For Jensen Huang, unparalleled success has come with a healthy helping of anxiety about how other tech titans fell.",
-            "url": "https://www.businessinsider.com/jensen-huang-nvidia-history-demise-cisco-sun-microsystems-2024-6",
-            "urlToImage": "https://i.insider.com/6671e17a2efa138e0330d342?width=1200&format=jpeg",
-            "publishedAt": "2024-06-22T10:00:01Z",
-            "content": "Jensen HuangMOHD RASFAN/Getty Images\r\n<ul><li>Jensen Huang isn't sitting comfortably atop the world's most valuable company.</li><li>He doesn't want Nvidia to meet the same fate as Cisco or Sun, The … [+3149 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Erin Snodgrass",
-            "title": "Killer of dismembered tech CEO found guilty of murder",
-            "description": "Tyrese Haspil was found guilty on all counts in the brutal murder of his former boss, tech CEO Fahim Saleh.",
-            "url": "https://www.businessinsider.com/tyrese-haspil-convicted-murder-dismemberment-tech-ceo-fahim-saleh-2024-6",
-            "urlToImage": "https://i.insider.com/6679ed53d1c84a0eaca75de0?width=1200&format=jpeg",
-            "publishedAt": "2024-06-24T22:23:27Z",
-            "content": "Tyrese Haspil being escorted out of the 7th precinct by NYPD detectives on July 17, 2020 in New York City.AP Photo/Eduardo Munoz Alvarez\r\n<ul><li>Tyrese Haspil was found guilty on all counts in the m… [+1867 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Kwan Wei Kevin Tan",
-            "title": "Amazon is trying to defend its kingdom against cheap Chinese rivals, and it thinks it has a plan",
-            "description": "Amazon's market capitalization passed $2 trillion on Wednesday, joining the ranks of other tech colossuses like Microsoft and Apple.",
-            "url": "https://www.businessinsider.com/amazon-has-a-plan-to-thwart-its-cheap-chinese-rivals-2024-6",
-            "urlToImage": "https://i.insider.com/667cca9e50b021b5cae9ce15?width=1200&format=jpeg",
-            "publishedAt": "2024-06-27T03:49:33Z",
-            "content": "Amazon's market capitalization passed $2 trillion for the first time on Wednesday, joining the ranks of other tech colossuses like Microsoft and Apple.Nathan Stirk via Getty Images\r\n<ul><li>Temu and … [+2669 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Oscar Gonzalez",
-            "title": "Biden Admin Wins Supreme Court Case on Requests for Social Networks to Delete Posts",
-            "description": "In a 6-3 decision on Wednesday, the Supreme Court ruled that the Biden administration didn’t do anything wrong when asking social media companies to remove posts full of misinformation. Read more...",
-            "url": "https://gizmodo.com/supreme-court-murthy-missouri-meta-twitter-youtube-1851561486",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/82b36755db696e15f1ef79d507362e79.jpg",
-            "publishedAt": "2024-06-26T15:55:00Z",
-            "content": "In a 6-3 decision on Wednesday, the Supreme Court ruled that the Biden administration didnt do anything wrong when asking social media companies to remove posts full of misinformation. \r\nMurthy v. Mi… [+2139 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Peter Kafka",
-            "title": "Paramount's new owner says he's building a tech company. Come again?",
-            "description": "David Ellison's plans for Paramount don't just include making better TV shows and movies. They call for better tech. How's that going to work?",
-            "url": "https://www.businessinsider.com/david-ellison-paramount-tech-plans-explained-peter-kafka-2024-7",
+            "title": "David Ellison has repeatedly framed \"New Paramount\" as partially a tech company, but the company's problem isn't its tech but rather its scale (Peter Kafka/Business Insider)",
+            "description": "Peter Kafka / Business Insider:\nDavid Ellison has repeatedly framed “New Paramount” as partially a tech company, but the company's problem isn't its tech but rather its scale  —  - David Ellison says the new Paramount will be a “World-Class Media and Technolo…",
+            "url": "https://mediagazer.com/240709/p11",
             "urlToImage": "https://i.insider.com/668c451d1aace5b3ada52008?width=1200&format=jpeg",
-            "publishedAt": "2024-07-08T20:36:29Z",
-            "content": "David Ellison is pitching the new Paramount as a tech company.Getty Images\r\n<ul><li>David Ellison says the new Paramount will be a \"World-Class Media and Technology Enterprise.\"</li><li>He's Oracle f… [+5471 chars]"
+            "publishedAt": "2024-07-09T18:50:00Z",
+            "content": "Mediagazer presents the day's must-read media news on a single page.\r\nThe media business is in tumult: from the production side to\r\nthe distribution side, new technologies are upending the industry.\r… [+416 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kim Komando",
+            "title": "Own a home? Shopping or selling? You’re a scam target",
+            "description": "Scammers' newest frontier is real-estate — and bad actors finding targeting homeowners, buyers and sellers with their familiar dirty tricks.",
+            "url": "https://www.foxnews.com/tech/own-home-shopping-selling-youre-scam-target",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Phishing-email-photo-1.jpg",
+            "publishedAt": "2024-07-09T18:49:30Z",
+            "content": "Theres a reason business scams are so pervasive. Criminals are looking for the most bang (money) for their buck (effort). Thats why it shouldnt surprise any of us that homeowners are a new target.\r\nI… [+3736 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Bailey Schulz, USA TODAY",
+            "title": "Sam's Club Plus members will soon have to spend at least $50 for free shipping",
+            "description": "About half of retail executives said they increased the minimum fee for free shipping within the last 12 months, according to recent survey.",
+            "url": "https://www.usatoday.com/story/money/retail/2024/07/09/sams-club-minimum-purchase-free-shipping/74322264007/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/cTuW9a_QwqwENbCXBoS6rw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_money_325/96e0d8834ac78b4097031f67e12ce8ba",
+            "publishedAt": "2024-07-09T18:49:18Z",
+            "content": "Sams Club is raising the bar for free shipping, following a trend a new survey reports is impacting retailers and customers nationwide.\r\nSam's Club's Plus members pay a $110 annual membership fee $60… [+4087 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Bloomberg News",
+            "title": "Tesla Is Now Biggest-Ever Weighting in ARKK After 80% Stock Gain",
+            "description": "The big rebound in Tesla Inc. shares over the past few months has pushed the electric-vehicle maker to its highest-ever weighting in Cathie Wood’s flagship $6.2 billion exchange-traded fund.",
+            "url": "https://financialpost.com/pmn/business-pmn/tesla-is-now-biggest-ever-weighting-in-arkk-after-80-stock-gain",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/07/tesla-shares-turn-positive-for-this-year-winning-streak-on-.jpg",
+            "publishedAt": "2024-07-09T18:49:03Z",
+            "content": "(Bloomberg) The big rebound in Tesla Inc. shares over the past few months has pushed the electric-vehicle maker to its highest-ever weighting in Cathie Woods flagship $6.2 billion exchange-traded fun… [+2612 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Slashdot.org"
+                "name": "eWeek"
             },
-            "author": "msmash",
-            "title": "Chinese Tech Companies Push Staff To the Limit",
-            "description": "JD.com founder Richard Liu warned employees against prioritizing work-life balance during a recent video conference, stating those who \"put life first and work second\" were not welcome at the company. This stance reflects a broader trend in China's tech secto…",
-            "url": "https://slashdot.org/story/24/06/24/1812201/chinese-tech-companies-push-staff-to-the-limit",
-            "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
-            "publishedAt": "2024-06-24T18:40:00Z",
-            "content": "JD.com founder Richard Liu warned employees against prioritizing work-life balance during a recent video conference, stating those who \"put life first and work second\" were not welcome at the company… [+955 chars]"
+            "author": "Kezia Jungco",
+            "title": "Freshsales Review (2024): Is This the CRM You’ve Been Looking For?",
+            "description": "Freshsales is renowned for its AI-powered sales tools, robust automation, and flexible yet intuitive interface at a much lower cost than comparable CRMs.\nThe post Freshsales Review (2024): Is This the CRM You’ve Been Looking For? appeared first on eWEEK.",
+            "url": "https://www.eweek.com/enterprise-apps/freshsales-review/",
+            "urlToImage": "https://assets.eweek.com/uploads/2024/07/ew_20240708-freshsales-review.png",
+            "publishedAt": "2024-07-09T18:48:03Z",
+            "content": "eWEEK content and product recommendations are editorially independent. We may make money when you click on links to our partners. Learn More.\r\nFreshsales Quick Facts\r\nOur Rating: 4.3/5Pricing: Free t… [+20283 chars]"
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
+                "id": null,
+                "name": "Tom's Hardware UK"
             },
-            "author": "Linette Lopez",
-            "title": "Apple is the first tech giant to get AI right",
-            "description": "Unlike Google and Microsoft, Apple is using AI to do what the technology has proved it can do rather than unreliable features.",
-            "url": "https://www.businessinsider.com/apple-winner-big-tech-company-artifical-intelligence-google-microsoft-openai-2024-6",
-            "urlToImage": "https://i.insider.com/666c54c2ed9a404d829dccba?width=1200&format=jpeg",
-            "publishedAt": "2024-06-16T09:57:01Z",
-            "content": "Apple's new iPhone features are the first time a Big Tech company has made AI useful for normal people.Apple; Getty Images; Alyssa powell/BI\r\nOn Monday, as part of its Worldwide Developers Conference… [+8275 chars]"
+            "author": "Anton Shilov",
+            "title": "TSMC's market cap is on track to reach $1 trillion — 6.5 times larger than Intel",
+            "description": "TSMC set to become Asia's first trillion dollar company, thanks to AI frenzy.",
+            "url": "https://www.tomshardware.com/tech-industry/tsmcs-market-cap-is-on-track-to-reach-dollar1-trillion-65-times-larger-than-intel",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/PGNTDiXGdxuJom9fs2agMB-1200-80.png",
+            "publishedAt": "2024-07-09T18:46:56Z",
+            "content": "The market capitalization of TSMC, the world's No.1 contract maker of semiconductors, briefly exceeded $1 trillion earlier this week as demand for advanced processors, including those for AI, is sett… [+2318 chars]"
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": "Grace Eliza Goodwin",
-            "title": "Big Tech gets a big win from the Supreme Court",
-            "description": "The Supreme Court sent social media moderation cases back to the lower courts in Texas and Florida, a victory for tech giants.",
-            "url": "https://www.businessinsider.com/supreme-court-ruling-netchoice-big-tech-analysis-2024-7",
-            "urlToImage": "https://i.insider.com/667ec3c250b021b5caea4d3e?width=1200&format=jpeg",
-            "publishedAt": "2024-07-01T16:50:27Z",
-            "content": "The US Supreme Court is issuing its most highly anticipated decisions before the term ends in July.Andrew Harnik/Getty Images\r\n<ul><li>The Supreme Court is kicking two major cases back down to lower … [+5193 chars]"
+            "author": null,
+            "title": "An opportunity for Ford, plus Fed head Powell speaks and Abbott faces trial",
+            "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+            "url": "https://www.cnbc.com/2024/07/09/an-opportunity-for-ford-plus-powell-speaks-and-abbott-goes-on-trial.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107429362-1718385789793-gettyimages-1242123064-FORD_EARNS.jpeg?v=1718402704&w=1920&h=1080",
+            "publishedAt": "2024-07-09T18:43:47Z",
+            "content": "Every weekday, the CNBC Investing Club with Jim Cramer releases the Homestretch an actionable afternoon update, just in time for the last hour of trading on Wall Street. New highs: The broad-based S … [+3501 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "The Daily Dot"
             },
-            "author": "Emma Roth",
-            "title": "US sues Adobe for ‘deceiving’ subscriptions that are too hard to cancel",
-            "description": "Adobe is facing a lawsuit from the US government that accuses the software giant of hiding fees and making it difficult to cancel subscriptions.",
-            "url": "https://www.theverge.com/2024/6/17/24180196/adobe-us-ftc-doj-sues-subscriptions-cancel",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/aGVjw-gBb0HzxLueojaHQQqbsNE=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23624358/acastro_STK124_04.jpg",
-            "publishedAt": "2024-06-17T15:56:30Z",
-            "content": "US sues Adobe for deceiving subscriptions that are too hard to cancel\r\nUS sues Adobe for deceiving subscriptions that are too hard to cancel\r\n / The Justice Department alleges that Adobe hid early ca… [+1841 chars]"
+            "author": "Marlon Ettinger",
+            "title": "Trump Media’s new streaming video partner touts ‘enhanced’ government control over content",
+            "description": "Trump Media announced last week that it had signed an agreement with a company called Perception Group, Inc. to buy live stream television infrastructure for its social media platform Truth Social \n\n\nBut a video on the company’s YouTube channel proposing nati…",
+            "url": "https://www.dailydot.com/debug/trump-media-video-truth-social/",
+            "urlToImage": "https://uploads.dailydot.com/2024/07/donald-trump-media-merger.jpg?auto=compress&fm=pjpg",
+            "publishedAt": "2024-07-09T18:43:33Z",
+            "content": "Trump Media announced last week that it had signed an agreement with a company called Perception Group, Inc. to buy live stream television infrastructure for its social media platform Truth Social \r\n… [+3415 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Us Weekly"
             },
-            "author": "Emma Roth",
-            "title": "Elon Musk drops lawsuit against OpenAI",
-            "description": "Elon Musk was suing ChatGPT maker OpenAI and its CEO, Sam Altman, for a breach of contract, but now the lawsuit has been dropped.",
-            "url": "https://www.theverge.com/2024/6/11/24176462/elon-musk-openai-lawsuit-sam-altman-dropped",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/qhhAPf5iS_vHpweTtvPiRoNc2hg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23906796/VRG_Illo_STK022_K_Radtke_Musk_Scales_2.jpg",
-            "publishedAt": "2024-06-11T21:29:42Z",
-            "content": "Elon Musk drops lawsuit against OpenAI\r\nElon Musk drops lawsuit against OpenAI\r\n / Elon Musk, a co-founder of OpenAI, has dropped his breach of contract lawsuit against the company. \r\nByEmma Roth, a … [+1737 chars]"
+            "author": "Sara Donnellan",
+            "title": "Emma Watson Kisses Oxford Classmate Kieran Brown: Photo",
+            "description": "News Licensing/MEGA Emma Watson looked smitten while sharing a sweet kiss with classmate Kieran Brown. Watson, 34, and Brown were spotted locking lips next to a white car in matching blue button-up shirts on July 1. Brown wore a backpack slung over one should…",
+            "url": "https://www.usmagazine.com/celebrity-news/news/emma-watson-kisses-oxford-classmate-kieran-brown-photo/#article",
+            "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2024/07/Emma-Watson-Seen-Kissing-Classmate-Kieran-Brown-4.jpg?crop=0px%2C170px%2C1333px%2C700px&resize=1200%2C630&quality=86&strip=all",
+            "publishedAt": "2024-07-09T18:43:07Z",
+            "content": "Sign InUp with your social account\r\nContinue with Google\r\nContinue with Facebook\r\nContinue with Amazon\r\nContinue with AppleWe won't post to any of your accounts\r\nGet back to the \r\nNews Licensing/MEGA… [+3011 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Forbes"
             },
-            "author": "Emma Roth",
-            "title": "Car dealerships hit with massive computer system outage",
-            "description": "CDK Global, the company that provides software to dealerships across North America, has gone offline following a “cyber incident.”",
-            "url": "https://www.theverge.com/2024/6/20/24182484/car-dealerships-massive-computer-system-outage-cdk-global",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/kZIjcB1NVDs7G1vyipuusg4BMfo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23318429/akrales_220309_4977_0014.jpg",
-            "publishedAt": "2024-06-20T18:04:52Z",
-            "content": "Car dealerships hit with massive computer system outage\r\nCar dealerships hit with massive computer system outage\r\n / The outage, which has stretched into its second day, has thrown a wrench in the op… [+1679 chars]"
+            "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+            "title": "Trump Will Pick His Running Mate Within Days—Here’s His Likely VP Shortlist",
+            "description": "Trump has said he will announce his running mate at the July Republican National Convention.",
+            "url": "https://www.forbes.com/sites/saradorn/2024/07/09/trump-will-pick-his-running-mate-within-days-heres-his-likely-vp-shortlist/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65ad5791e37144c78f8803cf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-09T18:43:01Z",
+            "content": "Former President Donald Trump is expected to announce his running mate in a matter of days, with the GOP convention looming next week, though he said Monday he has yet to make a final decision and wa… [+8409 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Quartz India"
             },
-            "author": "Richard Lawler",
-            "title": "Nvidia overtakes Microsoft as the world’s most valuable company",
-            "description": "Nvidia’s market cap closed on June 18th at $3.335 trillion, riding an AI boom powered by the company’s GPUs pushing it past Apple, Google, and Microsoft.",
-            "url": "https://www.theverge.com/2024/6/18/24181393/nvidia-most-valuable-company-microsoft-apple-google",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/oSDcNZcYzqmx4jAVrAfFZE7GLjs=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25343251/STK083_B_NVIDIA_B.jpg",
-            "publishedAt": "2024-06-18T22:44:32Z",
-            "content": "Nvidia overtakes Microsoft as the worlds most valuable company\r\nNvidia overtakes Microsoft as the worlds most valuable company\r\n / Just weeks after overtaking Apple for the number two spot, Nvidia is… [+1359 chars]"
+            "author": "Bruce Gil",
+            "title": "Who is David Ellison? Meet Hollywood's newest mogul and the next head of Paramount",
+            "description": "David Ellison is set to become the next chief executive of Paramount Global, putting him in charge of some of Hollywood’s biggest brands including Paramount Pictures, CBS, MTV, Nickelodeon, and BET. Read more...",
+            "url": "https://qz.com/david-ellison-paramount-skydance-1851583324",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3e1bf019852c00528112f2bc7efd58df.jpg",
+            "publishedAt": "2024-07-09T18:40:00Z",
+            "content": "David Ellison is set to become the next chief executive of Paramount Global, putting him in charge of some of Hollywoods biggest brands including Paramount Pictures, CBS, MTV, Nickelodeon, and BET. \r… [+3200 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "WWD"
             },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Netflix’s latest game is a mobile take on Minesweeper",
-            "description": "The latest Netflix game to come to the streaming giant’s service is a classic that’s best known as being a time-waster on Windows.",
-            "url": "https://www.theverge.com/2024/7/2/24190961/netflix-games-minesweeper-subscribers-launch-trailer",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/S0hvlUykChWMGG8GB0nVZy54Ucc=/0x0:2048x2732/1200x628/filters:focal(1024x1366:1025x1367)/cdn.vox-cdn.com/uploads/chorus_asset/file/25515570/minesweeper_netflix_screenshot.jpg",
-            "publishedAt": "2024-07-02T19:43:44Z",
-            "content": "Netflixs latest game is a mobile take on Minesweeper\r\nNetflixs latest game is a mobile take on Minesweeper\r\n / Straight outta Windows 3.11 and into your Netflix subscription, with much better graphic… [+1692 chars]"
+            "author": "Claire Sullivan",
+            "title": "Chill Out With These 7 Cooling Beauty Products to Beat the Heat",
+            "description": "Chill out with our editor-tested guide to the best cooling beauty products, including ice rollers, frosty face masks, and cooling skin care mists.",
+            "url": "http://wwd.com/shop/shop-beauty/cooling-beauty-products-1236480968/",
+            "urlToImage": "https://wwd.com/wp-content/uploads/2024/07/Best-Cooling-Beauty-Products.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-07-09T18:39:53Z",
+            "content": "If you purchase an independently reviewed product or service through a link on our website, WWD may receive an affiliate commission.\r\nWhen you’re stifled by summer heat, nothing sounds better than th… [+9541 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "bizjournals.com",
+            "title": "Biostate AI launches total RNA sequencing, data analysis",
+            "description": "Palo Alto tech health startup raised $4M in venture funding.",
+            "url": "https://biztoc.com/x/34bebef3929fe1f9",
+            "urlToImage": "https://biztoc.com/cdn/34bebef3929fe1f9_s.webp",
+            "publishedAt": "2024-07-09T18:38:13Z",
+            "content": "Palo Alto tech health startup raised $4M in venture funding.\r\nThis story appeared on bizjournals.com, 2024-07-09."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cbn.com"
+            },
+            "author": "Tré Goins-phillips",
+            "title": "Kirk Cameron 'Didn't Feel Safe' in CA, Moved Family to State That Values 'God, Family, and Country'",
+            "description": "Kirk Cameron 'Didn't Feel Safe' in CA, Moved Family to State That Values 'God, Family, and Country'cbn.com",
+            "url": "https://www2.cbn.com/news/entertainment/kirk-cameron-didnt-feel-safe-ca-moved-family-state-values-god-family-and-country",
+            "urlToImage": "https://www2.cbn.com/sites/default/files/media/slider/images/kirkcameron_hdv.jpg",
+            "publishedAt": "2024-07-09T18:37:55Z",
+            "content": "On the eve of Americas birthday, actor Kirk Cameron announced he has fled California for Tennessee.\r\nThe Growing Pains star said his decision to abandon the West Coast was sparked by the COVID-19 pan… [+2055 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Questionmarkabouttech.space"
+            },
+            "author": "thepuppet33r",
+            "title": "Show HN: Crash Course in IT",
+            "description": "I keep being asked by the IT-adjacent folks at my job about stuff like \"What is the cloud\" and \"Where should I start learning about IT?\"They usually come with the Google IT Fundamentals course or something like that, and while that stuff is good and all, it's…",
+            "url": "https://blog.questionmarkabouttech.space/CrashCourseInIT.html",
+            "urlToImage": null,
+            "publishedAt": "2024-07-09T18:37:10Z",
+            "content": "Crash Course in IT Basics\r\nDoubleVirgule\r\nIt means //.\r\nCrash Course in IT\r\nIve been asked several times for a recommendation for a quick Intro to IT. There are a handful of decent courses offered fo… [+996 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
                 "name": "NPR"
             },
-            "author": "Mose Buchele",
-            "title": "Texas power grid is challenged by electricity-loving computer data centers",
-            "description": "Experts warn the Texas power grid faces new strains from growing tech-sector data centers that are consuming ever more electricity for crypto-mining and artificial intelligence.",
-            "url": "https://www.npr.org/2024/06/21/nx-s1-5002265/texas-power-grid-is-challenged-by-electricity-loving-computer-data-centers",
-            "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
-            "publishedAt": "2024-06-21T07:44:40Z",
-            "content": "Experts warn the Texas power grid faces new strains from growing tech-sector data centers that are consuming ever more electricity for crypto-mining and artificial intelligence."
+            "author": "Greg Myre",
+            "title": "He created Oculus headsets as a teenager. Now he makes AI weapons for Ukraine",
+            "description": "Palmer Luckey launched his first tech company as a teenager. He sold it to Facebook for $2 billion. Now he's making AI weapons the Pentagon is buying for itself and also sending to Ukraine.",
+            "url": "https://www.npr.org/2024/07/09/nx-s1-4985981/oculus-ai-weapons-ukraine-palmer-luckey",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1830x1029+0+91/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2F18%2Fa468ddd34388ac3be0e32c12f8d6%2F20240624palmerluckey0347.jpg",
+            "publishedAt": "2024-07-09T18:34:59Z",
+            "content": "COSTA MESA, Calif. - Its easy to spot Palmer Luckey. Hes the guy with the mullet and the goatee, almost always dressed in khaki shorts, flip flops and bright Hawaiian shirts.\r\nAs he gives a tour of A… [+8737 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Forbes"
             },
-            "author": null,
-            "title": "Apple boosts Siri with ChatGPT in AI overhaul",
-            "description": "The company has been slower to roll out generative AI features than rivals including Google and Microsoft.",
-            "url": "https://www.bbc.com/news/articles/c4nn5mejl89o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1b13/live/1589a5d0-2764-11ef-9d0a-ef8fa1b61375.jpg",
-            "publishedAt": "2024-06-10T20:45:55Z",
-            "content": "Apple is to boost its Siri voice assistant and operating systems with ChatGPT as it seeks to catch up in the AI race.\r\nThe iPhone maker announced the Siri makeover along with a number of other new fe… [+3282 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Jordan Hart",
-            "title": "Photos show Mark Zuckerberg's style evolution — from hoodies to silver chains",
-            "description": "Mark Zuckerberg, Meta CEO and tech billionaire, evolved his style from simple gray t-shirts to expensive sweaters and trendy accessories.",
-            "url": "https://www.businessinsider.com/mark-zuckerbergs-style-evolution-in-photos-2024-6",
-            "urlToImage": "https://i.insider.com/666ac87f764df16112595896?width=1200&format=jpeg",
-            "publishedAt": "2024-06-15T10:18:02Z",
-            "content": "Mark Zuckerberg is becoming more like a style influencer in 2024.Chris Unger\r\n<ul><li>Mark Zuckerberg isn't style icon by any means, but he's working on it.</li><li>After spending years wearing the s… [+7262 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Hasan Chowdhury",
-            "title": "Efficiency helped turn Silicon Valley around. China is taking it to the extreme to do the same.",
-            "description": "After Silicon Valley bosses mounted a turnaround by putting pressure on workers, China's tech bosses are preparing to do the same.",
-            "url": "https://www.businessinsider.com/china-tech-bosses-put-pressure-on-workers-2024-6",
-            "urlToImage": "https://i.insider.com/6679582b50b021b5cae8a14a?width=1200&format=jpeg",
-            "publishedAt": "2024-06-24T14:51:37Z",
-            "content": "China's tech workers are facing growing pressure to boost performance from their bosses.CFOTO/Getty Images\r\n<ul><li>China's tech bosses are pushing their workers as competition intensifies, the FT re… [+4074 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Lloyd Lee",
-            "title": "AI companies need to get society's input as they build out the technology, OpenAI CEO Sam Altman and Airbnb CEO Brian Chesky say",
-            "description": "OpenAI CEO Sam Altman and Airbnb CEO Brian Chesky said tech companies should be transparent with people as they develop artificial intelligence.",
-            "url": "https://www.businessinsider.com/ai-progress-feedback-sam-altman-openai-brian-chesky-airbnb-2024-6",
-            "urlToImage": "https://i.insider.com/667caa8540cf2af6e4f61365?width=1200&format=jpeg",
-            "publishedAt": "2024-06-27T01:40:36Z",
-            "content": "OpenAI CEO Sam Altman, right, and Airbnb CEO Brian Chesky, left, emphasized the important of being transparent with the world as companies continue to build out artificial intelligence.Jason Redmond … [+3651 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Peter Kafka",
-            "title": "Did Apple just outthink everyone in AI? A chat with tech analyst Ben Thompson",
-            "description": "Who has the power in the deal between Tim Cook's Apple and Sam Altman's OpenAI? I asked tech analyst Ben Thompson. He explained who has the leverage.",
-            "url": "https://www.businessinsider.com/apple-deal-openai-chatgpt-tim-cook-sam-altman-who-wins-2024-6",
-            "urlToImage": "https://i.insider.com/666afe6a764df16112596999?width=1200&format=jpeg",
-            "publishedAt": "2024-06-13T14:41:25Z",
-            "content": "OpenAI's Sam Altman and Apple's Tim Cook have a deal. Analyst Ben Thompson thinks Apple is the winner in this one.Getty Images\r\n<ul><li>Apple was not a pioneer in AI. But it may be winning the AI rac… [+8272 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Katie Balevic",
-            "title": "Goldman Sachs says the return on investment for AI might be disappointing",
-            "description": "Tech companies are spending big on AI, but so far have little to show for it. A Goldman Sachs report gives AI investments mixed reviews.",
-            "url": "https://www.businessinsider.com/ai-return-investment-disappointing-goldman-sachs-report-2024-6",
-            "urlToImage": "https://i.insider.com/66215f3749058e66935763b0?width=1200&format=jpeg",
-            "publishedAt": "2024-06-29T16:58:33Z",
-            "content": "It may be a while before companies see a return on their AI investments. Getty Images\r\n<ul><li>Tech companies plan on spending over $1 trillion on artificial intelligence.</li><li>But the return on i… [+2483 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Kelsey Vlamis",
-            "title": "Fertility benefits are a must for attracting millennial talent, even in industries other than tech",
-            "description": "Previously a luxury for tech workers, fertility benefits are now more common across industries, according to benefits providers Progyny and Carrot.",
-            "url": "https://www.businessinsider.com/fertility-benefits-a-must-for-attracting-millennial-talent-ceo-says-2024-6",
-            "urlToImage": "https://i.insider.com/667c8af6d1c84a0eaca8215e?width=1200&format=jpeg",
-            "publishedAt": "2024-06-30T10:53:02Z",
-            "content": "IVF is a commonly covered treatment under fertility benefit plans.Luca Sola/AFP/Getty Images\r\n<ul><li>Companies are increasingly offering fertility benefits to employees, and not just in tech.</li><l… [+4684 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Sarah Jackson",
-            "title": "These are McKinsey's top 9 recommendations for business books this year",
-            "description": "McKinsey & Company's 2024 book recommendations list spans genres like personal development, work, and tech. Here are the 9 business books on the list.",
-            "url": "https://www.businessinsider.com/mckinsey-company-recommends-9-business-books-annual-reading-list-2024-7",
-            "urlToImage": "https://i.insider.com/668573b71f0c1cd6d7314488?width=1200&format=jpeg",
-            "publishedAt": "2024-07-03T16:19:46Z",
-            "content": "McKinsey & Company's reading recommendations are sourced from global business leaders like CEOs, founders, and editors-in-chief.Fabrice Coffrini/AFP via Getty Images\r\n<ul><li>McKinsey & Company publi… [+2116 chars]"
+            "author": "Caitlin White, Contributor, \n Caitlin White, Contributor\n https://www.forbes.com/sites/forbes-personal-shopper/people/caitlinwhite/",
+            "title": "The 8 Best Hotels In Las Vegas For Couples",
+            "description": "The best hotels in Las Vegas for couples have become less about twenty-four hour wedding chapels and more about indulgent, romantic escapes. Here's where to stay in 2024.",
+            "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-hotels-in-las-vegas-for-couples/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/668d78e831fa407c5810562c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-09T18:33:44Z",
+            "content": "All products and services featured are independently selected by Forbes Vetted contributors and editors. When you make a purchase through links on this page, we may earn a commission. Learn more\r\nThe… [+15485 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "Techreport.com"
+            },
+            "author": "Rida Fatima",
+            "title": "Bitcoin ETFs Investors Enter Accumulation Phase, Daily Inflows Hit $295 Million",
+            "description": "US Spot Bitcoin ETFs recorded the biggest day of inflows in over a month amid the broader crypto market struggles. The eleven US Spot Bitcoin ETFs garnered $295 million in inflow...\nThe post Bitcoin ETFs Investors Enter Accumulation Phase, Daily Inflows Hit $…",
+            "url": "https://techreport.com/crypto-news/bitcoin-etfs-investors-enter-accumulation-phase-daily-inflows-hit-295-million/",
+            "urlToImage": "https://techreport.com/wp-content/uploads/2024/07/0_2-22.png",
+            "publishedAt": "2024-07-09T18:32:59Z",
+            "content": "US Spot Bitcoin ETFs recorded the biggest day of inflows in over a month amid the broader crypto market struggles. The eleven US Spot Bitcoin ETFs garnered $295 million in inflow on July 8, marking t… [+3820 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "pymnts.com"
+            },
+            "author": "PYMNTS",
+            "title": "Web Scraping Wars: How Businesses Are Fighting AI Data Harvesting",
+            "description": "As web scraping by artificial intelligence (AI) companies intensifies, businesses are grappling with the unauthorized harvesting of their online content, prompting new defensive measures that could reshape the digital landscape. Web infrastructure company Clo…",
+            "url": "https://www.pymnts.com/artificial-intelligence-2/2024/web-scraping-wars-how-businesses-are-fighting-ai-data-harvesting/",
+            "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/07/AI-web-scraping-content-scraping-data-protection.jpg",
+            "publishedAt": "2024-07-09T18:30:40Z",
+            "content": "As web scraping by artificial intelligence (AI) companies intensifies, businesses are grappling with the unauthorized harvesting of their online content, prompting new defensive measures that could r… [+5803 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sapo.pt"
+            },
+            "author": "Pplware",
+            "title": "Novo Renault Master disponível para encomenda a partir de 42.930€ em Portugal",
+            "description": "Apresentado na feira Solutrans, em Lyon, a 21 de novembro de 2023, o Renault Master foi concebido para “ir mais longe, transportar mais e custar menos”. Já está disponível para encomenda em Portugal a...",
+            "url": "https://pplware.sapo.pt/motores/novo-renault-master-disponivel-para-encomenda-a-partir-de-42-930e-em-portugal/",
+            "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2024/07/novo_renault_master-5.jpg",
+            "publishedAt": "2024-07-09T18:30:12Z",
+            "content": "Apresentado na feira Solutrans, em Lyon, a 21 de novembro de 2023, o Renault Master foi concebido para \"ir mais longe, transportar mais e custar menos\". Já está disponível para encomenda em Portugal … [+3219 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Advocate"
+            },
+            "author": "BY TRAVIS WEBB Contributing writer",
+            "title": "LSU rules top individual awards on the LSWA's All-Louisiana baseball squad",
+            "description": "LSU took four of the five major awards for the Louisiana Sports Writers Association All-Louisiana baseball team announced on Tuesday. The Tigers have a team-high seven selections among the two squads and honorable mentions.",
+            "url": "https://www.theadvocate.com/acadiana/sports/ul_lafayette/lsu-rules-top-individual-awards-on-the-lswas-all-louisiana-baseball-squad/article_14a02ed6-3e21-11ef-88b9-f3b4492587df.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/2/f6/2f6f2b13-a246-5fa2-bed5-357984366cc0/66495886da14d.image.jpg?crop=1191%2C625%2C284%2C110&resize=1191%2C625&order=crop%2Cresize",
+            "publishedAt": "2024-07-09T18:28:00Z",
+            "content": "C Jorge Corona, La. Tech, Sr.\r\n1B Edgar Alvarez, Nicholls State, Sr.\r\n2B Steven Milam, LSU, Fr.\r\n3B Tommy White, LSU, Jr.\r\nSS Kyle DeBarge, UL, Jr.\r\nOF Cole McConnell, La. Tech, Sr.\r\nOF Mitchell Sanf… [+701 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "benzinga.com",
+            "title": "What's Going On With Paramount Global's Shares On Tuesday?",
+            "description": "Mass media and entertainment conglomerate Paramount Global (NASDAQ:PARA) shares are trading higher today.\nSkydance Media CEO David Ellison outlined a transformative vision for Paramount, positioning the company as a technology-media hybrid amid rising competi…",
+            "url": "https://biztoc.com/x/c524ab34355e1c62",
+            "urlToImage": "https://biztoc.com/cdn/c524ab34355e1c62_s.webp",
+            "publishedAt": "2024-07-09T18:27:14Z",
+            "content": "Mass media and entertainment conglomerate Paramount Global (NASDAQ:PARA) shares are trading higher today.Skydance Media CEO David Ellison outlined a transformative vision for Paramount, positioning t… [+129 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Andrea Adelson",
+            "title": "Uiagalelei wants '23 FSU players at ACC Kickoff",
+            "description": "FSU QB DJ Uiagalelei declined an invitation to ACC Kickoff, saying the Seminoles should be represented by members of last season's undefeated team.",
+            "url": "https://www.espn.com/college-football/story/_/id/40526829/dj-uiagalelei-wants-2023-fsu-players-attend-acc-kickoff",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0430%2Fr1326661_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-07-09T18:26:40Z",
+            "content": "Florida State quarterback DJ Uiagalelei said Tuesday he has declined an invitation to attend ACC Kickoff later this month.\r\nIn a statement he put on his social media, Uiagalelei said he believes the … [+1464 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investopedia"
+            },
+            "author": "Naomi Buchanan",
+            "title": "Why Wall Street Is Bullish on Healthcare Tech Stock Tempus AI",
+            "description": "Several analysts kicked off coverage of Tempus AI with bullish comments, anticipating gains from its applications of artificial intelligence in healthcare.",
+            "url": "https://www.investopedia.com/why-wall-street-is-bullish-on-healthcare-tech-stock-tempus-ai-8675178",
+            "urlToImage": "https://www.investopedia.com/thmb/mkpk8qs4zwKvmpyjCrC0CHYrQp0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2147839582-c9b5a558029741cca25a42eb63b8e718.jpg",
+            "publishedAt": "2024-07-09T18:26:14Z",
+            "content": "<ul><li>Several analysts kicked off coverage of Tempus AI with bullish comments, anticipating gains from its applications of artificial intelligence (AI) in healthcare. </li><li>The healthcare tech c… [+2675 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
+            "title": "Why Wall Street Is Bullish on Healthcare Tech Stock Tempus AI",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9cc5f832-00c8-41e2-bf9b-06cad8ccd04d",
             "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Ed Zitron",
-            "title": "Silicon Valley needs a new kind of savior",
-            "description": "To reignite innovation, Silicon Valley needs to get rid of the overpowered managers and put people who actually build the tech back in charge.",
-            "url": "https://www.businessinsider.com/save-tech-industry-fire-managers-ceo-hire-coders-developers-executives-2024-6",
-            "urlToImage": "https://i.insider.com/6662028e1cd3b17790441085?width=1200&format=jpeg",
-            "publishedAt": "2024-06-11T09:47:01Z",
-            "content": "The clear way to save Silicon Valley is to return the industry to the people who actually build tech to solve problems.Real Vector/Getty, shingopix/Getty, Tyler Le/BI\r\nOpen up Instagram and see how q… [+10221 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Emma Cosgrove",
-            "title": "Businesses are rushing to use generative AI. Now comes the messy part.",
-            "description": "Companies are often slow and careful when adopting new tech. Generative AI is very different, according to a new Bain survey of corporate America.",
-            "url": "https://www.businessinsider.com/companies-using-ai-bain-survey-roi-2024-6",
-            "urlToImage": "https://i.insider.com/6671deba087acd2be9b4c00d?width=1200&format=jpeg",
-            "publishedAt": "2024-06-19T16:30:01Z",
-            "content": "Nvidia CEO Jensen Huang speaking at the Computex conferenceSOPA Images/Getty Images\r\n<ul><li>A vast majority of US companies are adopting generative AI tools, according to a new Bain survey.</li><li>… [+4209 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Brent D. Griffiths",
-            "title": "RFK Jr. really needs his billionaire running-mate Nicole Shanahan's money",
-            "description": "Shannahan has given over $10 million to Kennedy this cycle, but last month she failed to draw on her tech fortune to make another big splash.",
-            "url": "https://www.businessinsider.com/rfk-jr-needs-his-veep-pick-nicole-shannahan-money-2024-6",
-            "urlToImage": "https://i.insider.com/66744dae2efa138e03312858?width=1200&format=jpeg",
-            "publishedAt": "2024-06-20T16:03:17Z",
-            "content": "Attorney and philanthropist Nicole Shanahan has joked that Robert F. Kennedy Jr. selected her to be his running mate due to her staggering wealth.Anadolu/Getty Images\r\n<ul><li>Robert F. Kennedy Jr.'s… [+2386 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Sarah Jackson",
-            "title": "Then and now: What tech CEOs and founders looked like when they first launched their companies versus today",
-            "description": "Many Big Tech CEOs shed more nerdy personas from their companies' early days. Here's a look at tech's biggest names then and now.",
-            "url": "https://www.businessinsider.com/old-photos-how-tech-ceos-looked-starting-company-compared-now",
-            "urlToImage": "https://i.insider.com/667da7f640cf2af6e4f656e1?width=1200&format=jpeg",
-            "publishedAt": "2024-06-28T12:37:59Z",
-            "content": "Elon Musk today runs several more companies than he did in 1999, when the photo on the left was taken.AP / Richard Bord/WireImage via Getty Images\r\n<ul><li>Some of Silicon Valley's biggest names are … [+4573 chars]"
+            "publishedAt": "2024-07-09T18:26:14Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "Digital Trends"
+            },
+            "author": "Michael Bizzaco",
+            "title": "These adjustable weights are usually $500 — today they’re $200",
+            "description": "Investing in health? This FitRx SmartRack and SmartBells kit is $300 off at Walmart, which is one of the best deals we’ve seen in a while on workout gear.",
+            "url": "https://www.digitaltrends.com/outdoors/fitrx-smartrack-and-smartbells-deal-july-2024/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/07/fitrx-smartrack-walmart-render-1.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-07-09T18:24:45Z",
+            "content": "Walmart\r\nWere always on the lookout for fitness deals, and we found a terrific Walmart offer we just had to shine some light on: Right now, youll be able to take home your very own FitRx SmartRack an… [+1637 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "title": "Uruguai vira refúgio de bilionários e centro de tecnologia",
+            "description": "Os investidores estrangeiros têm adquirido startups locais em ritmo acelerado, com mais de uma dúzia de negócios nos últimos quatro anos",
+            "url": "https://valor.globo.com/financas/noticia/2024/07/09/uruguai-vira-refugio-de-bilionarios-e-centro-de-tecnologia.ghtml",
+            "urlToImage": "https://s2-valor.glbimg.com/L4P3U5rs_BH7exAWd3ed6RZDb1A=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/Z/0/AswXN4QemJ2xRW5JDUeQ/080622nubank033.jpg",
+            "publishedAt": "2024-07-09T18:24:23Z",
+            "content": "À sombra dos vizinhos Brasil e Argentina, a relevância econômica do Uruguai costumava se reduzir a exportações de carne bovina, celulose e soja. Mas uma conjunção de impostos baixos, regulamentações … [+4410 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "[Removed]"
+                "id": "newsweek",
+                "name": "Newsweek"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "title": "Donald Trump Is for Sale. Who's Bidding? | Opinion",
+            "description": "Somehow, this now convicted felon is abusing legal loopholes to win the White House.",
+            "url": "https://www.newsweek.com/donald-trump-sale-whos-bidding-opinion-1922972",
+            "urlToImage": "https://d.newsweek.com/en/full/2424903/trump.jpg",
+            "publishedAt": "2024-07-09T18:23:27Z",
+            "content": "In 2020, as the standing attorney general of Minnesota, I took on a case that would change my life. The trial of George Floyd's killer was about so much more than convicting one rotten apple. It was … [+6183 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "Computerworld"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "author": "Elizabeth Montalbano",
+            "title": "OpenAI models still available in China via Azure cloud despite company ban",
+            "description": "OpenAI models are still accessible through Microsoft Azure’s cloud in China despite the fact that the company has banned the use of these models in the region. The backdoor access to the models is part of a changing dynamic in China’s tech space, where emergi…",
+            "url": "https://www.computerworld.com/article/2515144/openai-models-still-available-in-china-via-azure-cloud-despite-company-ban.html",
+            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2024/07/laptop_with_binary_code_and_the_flag_of_china_by_smederevac_gettyimages-1137730846_2400x1600-100858220-orig-100943306-orig.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2024-07-09T18:18:36Z",
+            "content": "Two weeks ago OpenAI sent letters to Chinese users warning it plans to cut off its AI development software and tools starting in July, according to multiple reports, incuding oneby Time magazine. Thi… [+727 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "Biztoc.com"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "author": "fortune.com",
+            "title": "Microsoft ordered employees in China to only use iPhones due to security threats",
+            "description": "The move is the latest example of the U.S. and China banning each other's tech products as the two superpowers build diverging digital ecosystems. Read More",
+            "url": "https://biztoc.com/x/577d26a9688a1bc6",
+            "urlToImage": "https://biztoc.com/cdn/799/og.png",
+            "publishedAt": "2024-07-09T18:16:30Z",
+            "content": "The move is the latest example of the U.S. and China banning each other's tech products as the two superpowers build diverging digital ecosystems. Read More\r\nThis story appeared on fortune.com, 2024-… [+5 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Annie Palmer, CNBC",
+            "title": "Etsy CEO says company is escaping 'race to the bottom' and getting back to its artisan roots",
+            "description": "When Etsy launched almost two decades ago, the site attracted artisans and craft makers, who finally had a place online where they could sell their niche products and reach a large audience.",
+            "url": "https://www.nbcnews.com/business/business-news/etsy-ceo-says-company-escaping-race-bottom-getting-back-artisan-roots-rcna160950",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-07/240709-etsy-ch-1413-36910a.jpg",
+            "publishedAt": "2024-07-09T18:16:09Z",
+            "content": "When Etsy launched almost two decades ago, the site attracted artisans and craft makers, who finally had a place online where they could sell their niche products and reach a large audience. But in r… [+6040 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ReadWrite"
+                "name": "Forbes"
             },
-            "author": "Graeme Hanna",
-            "title": "Apple may delay AI features in the EU because of its big tech laws",
-            "description": "Apple has warned upcoming features will need to be delayed in the European Union due to regulatory curbs on Big… Continue reading Apple may delay AI features in the EU because of its big tech laws\nThe post Apple may delay AI features in the EU because of its …",
-            "url": "https://readwrite.com/apple-ai-european-union-eu-delay-laws/",
-            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/06/appleu.webp",
-            "publishedAt": "2024-06-24T19:44:35Z",
-            "content": "Apple has warned upcoming features will need to be delayed in the European Union due to regulatory curbs on Big Tech. \r\nThe Cupertino-based company has cited concerns around the EUs Digital Markets A… [+1927 chars]"
+            "author": "Peter Cohan, Senior Contributor, \n Peter Cohan, Senior Contributor\n https://www.forbes.com/sites/petercohan/",
+            "title": "AI Industry May Never Earn Back Its $150 Billion Nvidia Chip Spend",
+            "description": "With a AI revenue $500 billion short of AI hardware investment, David Cahn believes we are witnessing the growth of a financial bubble.",
+            "url": "https://www.forbes.com/sites/petercohan/2024/07/09/ai-industry-may-never-earn-back-its-150-billion-nvidia-chip-spend/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/668c2e55a0ea810dbf99f531/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-09T18:15:27Z",
+            "content": "TOPSHOT - Joel Kjellgren, Data Center Manager walks in one of the server rooms at the new Facebook ... [+] Data Center, its first outside the US on November 7, 2013 in Lulea, in Swedish Lapland. The … [+9280 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Idownloadblog.com"
+            },
+            "author": "Christian Zibreg",
+            "title": "The hidden touchscreen interface in tvOS 18 hints at a future HomePod with a screen",
+            "description": "A hidden touchscreen interface called PlasterBoard, likely for a future HomePod with a built-in screen, has been found in the tvOS 18 code.",
+            "url": "https://www.idownloadblog.com/2024/07/09/homepod-screen-apple-tvos-18-code-plasterboard-touchscreen-interface/",
+            "urlToImage": "https://media.idownloadblog.com/wp-content/uploads/2022/07/Blue-HomePod-mini.jpg",
+            "publishedAt": "2024-07-09T18:15:22Z",
+            "content": "A hidden touchscreen interface called PlasterBoard likely destined for a future HomePod with a built-in screen has been found in the tvOS 18 code.\r\n9to5Mac discovered references to a new interface du… [+2184 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Maria Gracia Santillana Linares, Forbes Staff, \n Maria Gracia Santillana Linares, Forbes Staff\n https://www.forbes.com/sites/mariagraciasantillanalinares/",
+            "title": "Should Leaders Have Strict Off-Hours?",
+            "description": "Arvind Jain’s Advice for introverts, noncompete ban it temporarily paused and remote job postings freefall on this week's Careers newsletter.",
+            "url": "https://www.forbes.com/sites/mariagraciasantillanalinares/2024/07/09/should-leaders-have-strict-off-hours/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/668d781531fa407c58105628/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-09T18:15:10Z",
+            "content": "This is a published version of Forbes Careers Newsletter. Click here to subscribe and get it in your inbox every Tuesday. \r\nSir Kier Stammer (left) was criticized for implementing a strict 6 p.m. clo… [+6952 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "POPSUGAR"
+            },
+            "author": "Yerin Kim",
+            "title": "Turns Out Slip-On Sneakers Can Be Stylish",
+            "description": "When you think of an ergonomic or practical shoe, chic might not be the first word to come to mind. So when I was introduced to Kizik and its patented hands-free technology, I was surprised to discover how stylish the brand's slip-on shoes were. Many of Kizik…",
+            "url": "https://www.popsugar.com/fashion/kizik-paris-sneakers-review-49373035",
+            "urlToImage": "https://media1.popsugar-assets.com/files/thumbor/YhNugAhgYjvBkoAHeVWSDofigIA=/0x0:1200x630/fit-in/1200x630/top/filters:format_auto():quality(85):upscale()/2024/07/09/717/n/1922564/6f77614c668d61a6a4fa07.25583372_.jpg",
+            "publishedAt": "2024-07-09T18:15:03Z",
+            "content": "When you think of an ergonomic or practical shoe, chic might not be the first word to come to mind. So when I was introduced to Kizik and its patented hands-free technology, I was surprised to discov… [+4456 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hurriyet.com.tr"
+            },
+            "author": "hurriyet.com.tr",
+            "title": "Fransa Bisiklet Turu'nun 10. etabında Philipsen birinci oldu",
+            "description": "111. Fransa Bisiklet Turu'nun 10. etabını, Alpecin-Deceuninck takımından Jasper Philipsen kazandı.",
+            "url": "https://www.hurriyet.com.tr/sporarena/fransa-bisiklet-turunun-10-etabinda-philipsen-birinci-oldu-42487331",
+            "urlToImage": "https://image.hurimg.com/i/hurriyet/75/0x0/668d7d6e6216f9752b7f5024.jpg",
+            "publishedAt": "2024-07-09T18:12:09Z",
+            "content": "p&gt;111. Fransa Bisiklet Turu'nun 10. etabn, Alpecin-Deceuninck takmnn Belçikal sporcusu Jasper Philipsen kazand.Yol bisikletinin en prestijli yar kabul edilen organizasyona, Orleans ile Saint-Amand… [+858 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fox News",
+            "title": "New AI tech chooses personalized perfume, cologne based on shoppers’ preferences",
+            "description": "New artificial intelligence technology from iRomaScents aims to elevate the experience of picking out perfume and cologne in the department store.",
+            "url": "https://nypost.com/2024/07/09/tech/new-ai-tech-chooses-personalized-perfume-cologne-based-on-shoppers-preferences/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/choosing-signature-scent-got-personal-85177263.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-07-09T18:09:44Z",
+            "content": "Choosing a signature scent just got personal.\r\nNew artificial intelligence technology from iRomaScents aims to elevate the experience of picking out perfume and cologne in the department store.\r\nIn a… [+3240 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TechSpot"
+            },
+            "author": "Shawn Knight",
+            "title": "OKPad merges color IPS panel and e-ink display into a single, convertible 2-in-1",
+            "description": "The jack-of-all-trades OKPad from Bluegen is a convertible-style 2-in-1 sporting an 8.9-inch (800 x 1,280) IPS display in the usual position. A second screen – a 7.8-inch (1,404 x 1,872) e-ink panel – resides where you'd normally find the keyboard on an ordin…",
+            "url": "https://www.techspot.com/news/103741-okpad-merges-color-ips-panel-e-ink-display.html",
+            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/07/2024-07-09-image-23.jpg",
+            "publishedAt": "2024-07-09T18:06:00Z",
+            "content": "In brief: A Hong Kong-based tech startup has launched a Kickstarter campaign for a dual-screen device that delivers a traditional color IPS display alongside an e-ink screen like you'd find on an e-b… [+1715 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "aol.com",
+            "title": "Microsoft ad-tech subsidiary is breaking EU law—and not doing right by advertisers, privacy activists claim",
+            "description": "A Microsoft subsidiary is the target of the latest privacy complaint from the European nonprofit Noyb, which has successfully battled a number of other companies in recent years. And the accusations in this case are quite something.\nThe issues lie with a Micr…",
+            "url": "https://biztoc.com/x/ae154957fe53bbc8",
+            "urlToImage": "https://biztoc.com/cdn/ae154957fe53bbc8_s.webp",
+            "publishedAt": "2024-07-09T18:05:45Z",
+            "content": "A Microsoft subsidiary is the target of the latest privacy complaint from the European nonprofit Noyb, which has successfully battled a number of other companies in recent years. And the accusations … [+129 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Hodl"
+            },
+            "author": "Daily Hodl Staff",
+            "title": "Cathie Wood Says Bitcoin Likely Halfway Through Bull Market, Predicts BTC Adoption by Major Banking Giants",
+            "description": "ARK Invest chief executive Cathie Wood believes Bitcoin (BTC) is only halfway through its current bull market cycle. In a new interview with science and tech entrepreneur Peter Diamandis, Wood says that ARK believes that parabolic rallies may signal that the …",
+            "url": "https://dailyhodl.com/2024/07/09/cathie-wood-says-bitcoin-likely-halfway-through-bull-market-predicts-btc-adoption-by-major-banking-giants/",
+            "urlToImage": "https://dailyhodl.com/wp-content/uploads/2023/08/Big-Bitcoin-Pumps.jpg",
+            "publishedAt": "2024-07-09T18:05:27Z",
+            "content": "ARK Invest chief executive Cathie Wood believes Bitcoin (BTC) is only halfway through its current bull market cycle.\r\nIn a new interview with science and tech entrepreneur Peter Diamandis, Wood says … [+1650 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Boston Globe"
+            },
+            "author": "Stuart Miller",
+            "title": "‘Sunny’ shines and stumbles",
+            "description": "The new AI-focused show on Apple TV+ is almost a hit.",
+            "url": "https://www.bostonglobe.com/2024/07/09/arts/sunny-shines-stumbles/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/mu-2_HzCTi1byn8BWJlKj0JU3-Y=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/M5QX5KPNG6XTJG2B4LCFNTWS4Q.jpg",
+            "publishedAt": "2024-07-09T18:04:09Z",
+            "content": "These scenes and those twin stories make it seem Sunny is luring you in for what would have been called a watercooler show back when people went to offices. Unfortunately, the show, adapted by Katie … [+5758 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hvg.hu"
+            },
+            "author": "hvg@hvg.hu",
+            "title": "41 év kellett hozzá, de végre a Windows Jegyzettömbje megkapott két alapvető funkciót",
+            "description": "Mindenkinél elkezdte bevezetni a helyesírás-ellenőrzést és az automatikus javítást a Jegyzettömbben a Microsoft, így nem lesz gond, ha elütött valamit – ezentúl vagy aláhúzza, vagy önállóan javítja a program.",
+            "url": "https://hvg.hu/tudomany/20240709_microsoft-windows-11-jegyzettomb-helyesiras-ellenorzes-autokorrekt",
+            "urlToImage": "https://img.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/fd2b7583-103b-43ec-9fef-059afb1f02cf.jpg",
+            "publishedAt": "2024-07-09T18:03:00Z",
+            "content": "Miközben az ingyenes WordPad szövegszerkeszt hamarosan végleg búcsúzik a Windowsból, a Jegyzettömb egyre okosabb lesz: a sokáig tényleg nagyon egyszer program az elmúlt idszakban az automatikus menté… [+1197 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macdailynews.com"
+            },
+            "author": "MacDailyNews",
+            "title": "Apple TV+ teases Severance season 2 with new video",
+            "description": "From director and executive producer Ben Stiller and creator Dan Erickson comes “Severance.” Mark Scout (Adam Scott) leads a team…\nThe post Apple TV+ teases Severance season 2 with new video appeared first on MacDailyNews.",
+            "url": "https://macdailynews.com/2024/07/09/apple-tv-teases-severance-season-2-with-new-video/",
+            "urlToImage": "https://149359564.v2.pressablecdn.com/wp-content/uploads/2024/07/240709_severance.png",
+            "publishedAt": "2024-07-09T18:01:43Z",
+            "content": "Still from Apple TV+’s teaser video for “Severance” season 2.\r\nFrom director and executive producer Ben Stiller and creator Dan Erickson comes Severance. Mark Scout (Adam Scott) leads a team at Lumon… [+1783 chars]"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": "adibalcan",
+            "title": "Show HN: Gravity ball, a free Playdate game",
+            "description": "Hello,I am Adrian (from feedcheck.co) a tech entrepreneur passionate about programming.I want to introduce a new Playdate game where you need to move(using the accelerometer) a ball to a target hole. The goal is to avoid traps and go to the target. Every leve…",
+            "url": "https://news.ycombinator.com/item?id=40919030",
+            "urlToImage": null,
+            "publishedAt": "2024-07-09T18:01:15Z",
+            "content": "Hello,I am Adrian (from feedcheck.co) a tech entrepreneur passionate about programming.\r\nI want to introduce a new Playdate game where you need to move(using the accelerometer) a ball to a target hol… [+205 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "John Werner, Contributor, \n John Werner, Contributor\n https://www.forbes.com/sites/johnwerner/",
+            "title": "will.i.am Breaks Down AI Progress And Provides AI Demos",
+            "description": "This wide-ranging interview with Will.i.am was a high point in exploring the use of AI in entertainment and beyond.",
+            "url": "https://www.forbes.com/sites/johnwerner/2024/07/09/william-breaks-down-ai-progress-and-provides-ai-demos/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/668d7400e855bc02894669d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-09T18:01:00Z",
+            "content": "One of the interesting things to come out of the Imagination In Action conference this past month was a pretty substantial interview with will.i.am (titled Harmonizing Creativity) conducted by our CS… [+10274 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Frandroid"
+            },
+            "author": "Axel Savoye",
+            "title": "Revolut met votre compte en banque à l’abri des pickpockets avec cette nouvelle fonctionnalité",
+            "description": "Que ce soit l'Euro 2024 ou les JO de Paris, les événements de grande envergure attirent un grand nombre de touristes, qui attirent à leur tour un grand nombre de pickpockets. Pour faire face aux fraudes financières dues aux vols de smartphone, Revolut lance u…",
+            "url": "https://www.frandroid.com/services/banque-en-ligne/2073710_revolut-met-votre-compte-en-banque-a-labri-des-pickpockets-avec-cette-nouvelle-fonctionnalite",
+            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/08/revolut-livret-flexible.jpg",
+            "publishedAt": "2024-07-09T18:00:38Z",
+            "content": "Que ce soit l'Euro 2024 ou les JO de Paris, les événements de grande envergure attirent un grand nombre de touristes, qui attirent à leur tour un grand nombre de pickpockets. Pour faire face aux frau… [+3478 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Longnow.org"
+            },
+            "author": "Jacob Kuppermann",
+            "title": "Dragons on the Moon",
+            "description": "An interview with Robin Sloan on his new book Moonbound.",
+            "url": "https://longnow.org/ideas/moonbound/",
+            "urlToImage": "https://static.longnow.org/2024/06/moonbound-cover-reveal.jpg",
+            "publishedAt": "2024-07-09T18:00:17Z",
+            "content": "Moonbound (02024), the latest novel by Robin Sloan, takes you on a journey. It begins with the invention of faster-than-light space travel, the creation of artificially intelligent dragons by futuris… [+24590 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "Why Lucknow SuperGiants 'shared' this Virat Kohli and Rohit Sharma photo with Elon Musk",
+            "description": "TECH NEWS : Lucknow SuperGiants posted a photo of Rohit Sharma hugging Virat Kohli after India’s ICC T20 World Cup 2024 win to Elon Musk’s request for beautiful c",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/why-lucknow-supergiants-shared-this-virat-kohli-and-rohit-sharma-photo-with-elon-musk/articleshow/111614729.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-111614723,width-1070,height-580,imgsize-80510,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-07-09T18:00:04Z",
+            "content": "Lucknow SuperGiants posted a photo of Rohit Sharma hugging Virat Kohli after Indias ICC T20 World Cup 2024 win to Elon Musks request for beautiful content. India's victory ended a 13-year drought. At… [+179 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Jack Dunn",
+            "title": "Rob McElhenney Revs Up Creative Collaboration Platform Adim With Debut of Short ‘Cammy and Mike’",
+            "description": "Rob McElhenney, co-creator and star of “It’s Always Sunny in Philadelphia” and “Mythic Quest” and owner of Wrexham AFC owner, has added another notch to his belt of titles: tech entrepreneur. Through his collaboration platform Adim and his short film “Cammy a…",
+            "url": "https://variety.com/2024/biz/news/rob-mcelhenney-adim-platform-cammy-and-mike-1236060370/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/07/Screenshot-2024-05-15-at-1.49.53 PM-2-e1720463727978.png?w=1000&h=563&crop=1",
+            "publishedAt": "2024-07-09T18:00:00Z",
+            "content": "Rob McElhenney, co-creator and star of “It’s Always Sunny in Philadelphia” and “Mythic Quest” and owner of Wrexham AFC owner, has added another notch to his belt of titles: tech entrepreneur. Through… [+3070 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Audioboom.com"
+            },
+            "author": "The Filmcast, The Filmcast",
+            "title": "Ep. 782 - Beverly Hills Cop: Axel F",
+            "description": "David, Devindra, and Jeff hop aboard the thrilling action of Kill, serve up their thoughts on the latest season of The Bear, and tackle the challenges of Physical 100. Then they discuss Eddie Murphy's return to Beverly Hills with a review of Beverly Hills Cop…",
+            "url": "https://audioboom.com/posts/8535935-ep-782-beverly-hills-cop-axel-f",
+            "urlToImage": "https://audioboom.com/i/41857636",
+            "publishedAt": "2024-07-09T18:00:00Z",
+            "content": "Weekly PlugsDavid - A Cast of KingsDevindra - Engadget: Kia EV9 reviewJeff - Get to the Front of the LineShownotes (All timestamps are approximate only)   What we've been watching (~00:12:55)David - … [+543 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Grist"
+            },
+            "author": "Matt Simon, Grist",
+            "title": "Heat Waves Can Buckle Train Tracks, Delaying Commutes and Commerce",
+            "description": "Extreme heat can cause train tracks to expand and buckle. That’s forcing rail operators to adapt as the climate warms",
+            "url": "https://grist.org/transportation/taking-a-train-during-a-heat-wave-watch-out-for-sun-kinks/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/1c0d3752dcbf5fc8/original/GettyImages-1068089608_WEB.jpg?w=1200",
+            "publishedAt": "2024-07-09T18:00:00Z",
+            "content": "One of the iconic sensory experiences of riding a train is actually the sound of ingenuity. As steel railroad tracks heat up, they grow: 1,800 feet of rail expands by more than an inch for every 10 d… [+6551 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Decider"
+            },
+            "author": "mliss1578",
+            "title": "Stream It Or Skip It: ‘Kingdom of the Planet of the Apes’ on VOD, a Rock-Solid New Franchise Entry Proving That Apes Still Together Strong",
+            "description": "This is a surprisingly enduring franchise.",
+            "url": "https://decider.com/2024/07/09/kingdom-of-the-planet-of-the-apes-streaming-digital-movie-review/",
+            "urlToImage": "https://decider.com/wp-content/uploads/2024/07/KINGDOM-OF-THE-PLANET-OF-THE-APES-STREAMING-DIGITAL-REVIEW.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2024-07-09T18:00:00Z",
+            "content": "Kingdom of the Planet of the Apes (now streaming on VOD services like Amazon Prime Video) finds itself in the unfortunate circumstance of following the best trilogy of the best blockbuster franchise … [+9598 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCMag.com"
+            },
+            "author": "Neil J. Rubenking",
+            "title": "Every Phone Can ID Your Router—Here's How to Stop It",
+            "description": "When any smartphone comes within range of your Wi-Fi router, it reports your details to a giant database that helps fine-tune GPS positioning. Rather not participate? We can help.\nYour smartphone constantly checks available Wi-Fi nodes, looking to reconnect w…",
+            "url": "https://uk.pcmag.com/wireless-routers/153179/every-phone-can-id-your-router-heres-how-to-stop-it",
+            "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/e/every-phon/every-phone-can-id-your-router-heres-how-to-stop-it_w7es.1200.jpg",
+            "publishedAt": "2024-07-09T17:57:10Z",
+            "content": "Your smartphone constantly checks available Wi-Fi nodes, looking to reconnect with any that youve used before. You can see it happening, and its very convenient (though vulnerable to spoofing and evi… [+5877 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Richmond.com"
+            },
+            "author": "ANNA BRYSON Richmond Times-Dispatch",
+            "title": "Youngkin issues order urging cellphone-free policies in K-12 schools",
+            "description": "Gov. Glenn Youngkin issued an executive order that directs officials to issue guidance on cellphone-free education policies in Virginia’s K-12 schools.",
+            "url": "https://richmond.com/news/state-regional/education/youngkin-cellphones-k-12-schools-virginia/article_c21bb576-3e08-11ef-9179-47dad6f7ec1a.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/c/21/c21bb576-3e08-11ef-9179-47dad6f7ec1a/668d6540a9948.social.jpg?resize=1500%2C1000",
+            "publishedAt": "2024-07-09T17:57:00Z",
+            "content": "Gov. Glenn Youngkin issued an executive order Tuesday that directs officials to issue guidance on cellphone-free education policies in Virginias K-12 schools, the first statewide effort in Virginia t… [+12012 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ETtech",
+            "title": "WhatsApp launches context card feature to help users stay safe in group messaging",
+            "description": "Meta’s WhatsApp launches a group messaging safety feature, displaying context cards for new, unknown group additions with creator details and creation date. This helps users decide to stay or leave. The update enhances tools like chat lock, silencing unknowns…",
+            "url": "https://economictimes.indiatimes.com/tech/technology/whatsapp-launches-context-card-feature-to-help-users-stay-safe-in-group-messaging/articleshow/111614704.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-111614747,width-1200,height-630,imgsize-809166,overlay-ettech/photo.jpg",
+            "publishedAt": "2024-07-09T17:56:11Z",
+            "content": "Meta-owned popular messaging app WhatsApp on Tuesday rolled out a new feature aimed at helping users stay safe in group messaging. WhatsApp said it has already started rolling out the feature to user… [+1596 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Om.co"
+            },
+            "author": "Om Malik",
+            "title": "Why (& How) IPL Could Save Test Cricket",
+            "description": "Marylebone Cricket Club, one of cricket’s august organizations, recently organized World Cricket Connects, a symposium about the future of a sport that — like so many things — finds itself caught between tradition and tomorrow. Test cricket, the traditional f…",
+            "url": "https://om.co/2024/07/09/why-how-ipl-could-save-test-cricket/",
+            "urlToImage": "https://149366103.v2.pressablecdn.com/wp-content/uploads/2021/05/image-og-fallback-om-left-white-vb.png",
+            "publishedAt": "2024-07-09T17:56:00Z",
+            "content": "Photo by Chirayu Trivedi on Unsplash\r\nMarylebone Cricket Club, one of crickets august organizations, recently organized World Cricket Connects, a symposium about the future of a sport that like so ma… [+10012 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Toys"
+            },
+            "author": "Justin Kahn",
+            "title": "Grab Amazon’s smart Echo Pop speaker down at just $18 (Reg. $40), more early Prime offers up to 55% off",
+            "description": "Amazon seemingly came out of nowhere to debuts its brand new Echo Spot speaker yesterday morning, with a serious 42% launch deal no less, but the early Prime Day offers are flooding in today on the Echo lineup. Amazon, as is customary, has begun launching Pri…",
+            "url": "http://9to5toys.com/2024/07/09/amazon-smart-echo-pop-speaker-prime-day/",
+            "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2024/06/Amazon-Echo-Pop-smart-speaker-deals.jpg?resize=1200%2C628&ssl=1",
+            "publishedAt": "2024-07-09T17:55:41Z",
+            "content": "Amazon seemingly came out of nowhere to debuts its brand new Echo Spot speaker yesterday morning, with a serious 42% launch deal no less, but the early Prime Day offers are flooding in today on the E… [+2461 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCMag.com"
+            },
+            "author": "Kate Irwin",
+            "title": "Self-Driving Cars From China Are Collecting Data on US Roads",
+            "description": "Robotaxis from Chinese companies like WeRide have logged 1.8 million miles of driving on California roads, collecting audio and video recordings along the way.\nCalifornia has been a testing ground for a slew of robotaxis, from Waymo to Amazon's Zoox—but seven…",
+            "url": "https://uk.pcmag.com/cars-auto/153180/self-driving-cars-from-china-are-collecting-data-on-us-roads",
+            "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/s/self-drivi/self-driving-cars-from-china-are-collecting-data-on-us-roads_1h16.1200.jpg",
+            "publishedAt": "2024-07-09T17:55:25Z",
+            "content": "California has been a testing ground for a slew of robotaxis, from Waymo to Amazon's Zooxbut seven firms based in China are quietly testing their robotaxis in the state, too. \r\nChinese-owned companie… [+2084 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCMag.com"
+            },
+            "author": "Kate Irwin",
+            "title": "Self-Driving Cars From China Are Collecting Data on US Roads",
+            "description": "Robotaxis from Chinese companies like WeRide have logged 1.8 million miles of driving on California roads, collecting audio and video recordings along the way.\nCalifornia has been a testing ground for a slew of robotaxis, from Waymo to Amazon's Zoox—but seven…",
+            "url": "https://me.pcmag.com/en/cars-auto/24559/self-driving-cars-from-china-are-collecting-data-on-us-roads",
+            "urlToImage": "https://sm.pcmag.com/t/pcmag_me/news/s/self-drivi/self-driving-cars-from-china-are-collecting-data-on-us-roads_bwp8.1200.jpg",
+            "publishedAt": "2024-07-09T17:55:25Z",
+            "content": "California has been a testing ground for a slew of robotaxis, from Waymo to Amazon's Zooxbut seven firms based in China are quietly testing their robotaxis in the state, too. \r\nChinese-owned companie… [+2084 chars]"
         }
     ]
 }

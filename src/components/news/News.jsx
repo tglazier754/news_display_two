@@ -1,6 +1,7 @@
 import { useMemo, useState } from "react";
 import { processNewsData } from "../../controllers/newsController";
-
+import NewsItem from "./NewsItem";
+import "./News.css";
 
 export const News = ({ data }) => {
 
@@ -21,7 +22,7 @@ export const News = ({ data }) => {
 
     return (
         <div className="news-container">
-            <p>{activeArticleData.title}</p>
+            <NewsItem key={`active-article-${activeArticle}`} data={activeArticleData} />
         </div>
     );
 }

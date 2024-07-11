@@ -26,6 +26,7 @@ export const ScoreTicker = ({ mlb }) => {
 
     //the actual data that is processed is memoized so that it does not get recomputed on re-render
     const processedMLBData = useMemo(() => { return processMLBData(mlb); }, [mlb])
+    //TODO: recalculate this on screen resize
     const screensData = useMemo(() => { return prepScreens({ mlb: processedMLBData }) }, [processedMLBData]);
 
     //this is using state so that we can trigger the re-render
@@ -55,7 +56,6 @@ export const ScoreTicker = ({ mlb }) => {
     if (!screensData[activeScreen]) return null;
 
     //TODO: set compact to true for the box scores on small screens
-    //TODO: Make the box scores class generic and have it determine which league to use
     //giving the score ticker a unique key means that it will be re-drawn on each re-render
     return (
         <div key={`score-ticker-active-screen-${activeScreen}`} className="score-ticker">

@@ -4,8 +4,6 @@ import "./MLBScoreBox.css";
 
 export const MLBScoreBox = ({ gameData, compact = false }) => {
 
-
-    //TODO: Add a helper function to link full team names to abbreviated names
     //TODO: Implement the logo as a css background class
 
     const gameStartTime = getFormattedTimeString(gameData.date);

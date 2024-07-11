@@ -20,6 +20,7 @@ import MLBScoreBox from "./MLBScoreBox";
 import LeagueIcon from "./LeagueIcon";
 import "./scoreTicker.css";
 
+//TODO : Recalculate ticker width based on screen width
 
 export const ScoreTicker = ({ mlb }) => {
 

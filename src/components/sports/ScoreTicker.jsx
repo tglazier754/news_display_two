@@ -19,15 +19,23 @@ import { prepScreens } from "../../controllers/scoreTickerController";
 import MLBScoreBox from "./MLBScoreBox";
 import LeagueIcon from "./LeagueIcon";
 import "./scoreTicker.css";
+import { useScreenSize } from "../../hooks/useScreenSize";
 
 //TODO : Recalculate ticker width based on screen width
 
 export const ScoreTicker = ({ mlb }) => {
 
+    const [width, height] = useScreenSize();
+
     //the actual data that is processed is memoized so that it does not get recomputed on re-render
     const processedMLBData = useMemo(() => { return processMLBData(mlb); }, [mlb])
     //TODO: recalculate this on screen resize
-    const screensData = useMemo(() => { return prepScreens({ mlb: processedMLBData }) }, [processedMLBData]);
+    const screensData = useMemo(() => {
+        const maxScreenCount = width < 600 ? 3 : 4;
+        return prepScreens({ mlb: processedMLBData }, maxScreenCount)
+    }, [processedMLBData, width, height]);
+
+    const isCompact = useMemo(() => { return width < 1000 ? true : false }, [width]);
 
     //this is using state so that we can trigger the re-render
     const [activeScreen, setActiveScreen] = useState(0);
@@ -35,8 +43,6 @@ export const ScoreTicker = ({ mlb }) => {
     let animationTimer;
 
     useEffect(() => {
-        //TODO: add screen size handlers here
-
         //timer for changing the active screen
         //TODO: add proper animation classes here to fade or slide in/out
         animationTimer = setTimeout(() => {
@@ -61,7 +67,7 @@ export const ScoreTicker = ({ mlb }) => {
         <div key={`score-ticker-active-screen-${activeScreen}`} className="score-ticker">
             <div className="league-name-container"><LeagueIcon league={screensData[activeScreen].league} /></div>
             <div className="games">
-                {screensData[activeScreen].games.map((game) => { return <MLBScoreBox key={`mlb-game-${game.guid}`} gameData={game} /> })}
+                {screensData[activeScreen].games.map((game) => { return <MLBScoreBox compact={isCompact} key={`mlb-game-${game.guid}`} gameData={game} /> })}
             </div>
         </div>)
 

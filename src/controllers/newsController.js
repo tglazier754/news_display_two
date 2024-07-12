@@ -6,6 +6,5 @@ export const processNewsData = (data) => {
     //I could decide to only show articles with images here or something similar though
 
     const filtered = data && data.articles ? data.articles.filter(((value) => { return value.title.toLowerCase().lastIndexOf("removed") < 0 })) : [];
-    console.log(filtered);
     return filtered ? filtered : [];
 }

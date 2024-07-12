@@ -13,7 +13,7 @@
     - Changing the active selection will trigger a re-render on the ticker
 */
 
-import { useMemo, useState, useEffect } from "react";
+import { useRef, useMemo, useState, useEffect } from "react";
 import { processMLBData } from "../../controllers/mlbController";
 import { prepScreens } from "../../controllers/scoreTickerController";
 import MLBScoreBox from "./MLBScoreBox";
@@ -26,6 +26,11 @@ import { useScreenSize } from "../../hooks/useScreenSize";
 export const ScoreTicker = ({ mlb }) => {
 
     const [width, height] = useScreenSize();
+    const animationInterval = useRef();
+
+
+    //this is using state so that we can trigger the re-render
+    const [activeScreen, setActiveScreen] = useState(0);
 
     //the actual data that is processed is memoized so that it does not get recomputed on re-render
     const processedMLBData = useMemo(() => { return processMLBData(mlb); }, [mlb])
@@ -37,26 +42,22 @@ export const ScoreTicker = ({ mlb }) => {
 
     const isCompact = useMemo(() => { return width < 1000 ? true : false }, [width]);
 
-    //this is using state so that we can trigger the re-render
-    const [activeScreen, setActiveScreen] = useState(0);
-
-    let animationTimer;
 
     useEffect(() => {
         //timer for changing the active screen
         //TODO: add proper animation classes here to fade or slide in/out
-        animationTimer = setTimeout(() => {
+        const updateScreen = () => {
             if (activeScreen === screensData.length - 1) {
                 setActiveScreen(0);
             }
-            else setActiveScreen(activeScreen + 1);
-        }, 5000);
-
+            else { setActiveScreen(activeScreen + 1); }
+        }
+        animationInterval.current = setTimeout(updateScreen, 5000);
         return () => {
-            clearTimeout(animationTimer);
+            clearTimeout(animationInterval.current);
         }
 
-    }, []);
+    }, [activeScreen]);
 
 
     if (!screensData[activeScreen]) return null;

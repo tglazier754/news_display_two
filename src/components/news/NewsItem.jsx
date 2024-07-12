@@ -5,7 +5,6 @@ export const NewsItem = ({ data }) => {
 
     const dateDiff = getFormattedDatePostedString(data.publishedAt);
 
-    console.log(dateDiff);
 
     return (
         <div className="news-item-container">

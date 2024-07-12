@@ -1,4 +1,4 @@
-import { useMemo, useState, useEffect } from "react";
+import { useMemo, useState, useRef, useEffect } from "react";
 import { processNewsData } from "../../controllers/newsController";
 import NewsItem from "./NewsItem";
 import "./News.css";
@@ -9,15 +9,12 @@ export const News = ({ data }) => {
 
     const [activeArticle, setActiveArticle] = useState(0);
 
-
-    let animationTimer;
+    const animationInterval = useRef();
 
     useEffect(() => {
-        //TODO: add screen size handlers here
-
         //timer for changing the active screen
         //TODO: add proper animation classes here to fade or slide in/out
-        animationTimer = setTimeout(() => {
+        animationInterval.current = setTimeout(() => {
             if (activeArticle === processedData.length - 1) {
                 setActiveArticle(0);
             }
@@ -25,10 +22,10 @@ export const News = ({ data }) => {
         }, 5000);
 
         return () => {
-            clearTimeout(animationTimer);
+            clearTimeout(animationInterval.current);
         }
 
-    }, []);
+    }, [activeArticle]);
 
 
 

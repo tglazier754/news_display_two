@@ -19,7 +19,7 @@ export const News = ({ data }) => {
                 setActiveArticle(0);
             }
             else setActiveArticle(activeArticle + 1);
-        }, 5000);
+        }, 10000);
 
         return () => {
             clearTimeout(animationInterval.current);

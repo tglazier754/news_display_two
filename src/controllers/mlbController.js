@@ -7,7 +7,7 @@ export const processMLBData = (data) => {
     let games = [];
 
     //TODO: Check if data is valid
-    if (data) {
+    if (data && data.dates.length) {
         games = data.dates[0].games.map((game) => {
             const gameObj = {};
             gameObj.date = game.gameDate;

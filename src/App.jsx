@@ -16,18 +16,20 @@ function App() {
   //If we have 1000 clients, we will make 1000 api calls like this
   //If we have a backend, 1000 clients will still result in only 1 api call if it is done on a backend
 
-  //TODO: grab the data more directly, stored in a useMemo instead of this custom hook
-  const { store } = useBulkDownload([
+
+  //TODO: Add additional sports - includes work to the scoreticker component and controller
+  //TODO: update to Redux/RTK
+  /*const { store } = useBulkDownload([
     { key: "weather", url: "https://api.open-meteo.com/v1/forecast?latitude=43.65&longitude=79.38&current=temperature_2m,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min&forecast_days=6" },
     { key: "mlb", url: "https://statsapi.mlb.com/api/v1/schedule/games/?sportId=1" },
-    { key: "news", url: `https://newsapi.org/v2/everything?q=tech&sortBy=publishedAt&language=en&apiKey=${newsApiKey}` }])
+    { key: "news", url: `https://newsapi.org/v2/everything?q=tech&sortBy=publishedAt&language=en&apiKey=${newsApiKey}` }])*/
 
   //https://newsapi.org/v2/everything?q=tech&sortBy=publishedAt&language=en&apiKey=20f3c836ab7146f7965a8ebb78c425b4
 
-  /*const { store } = useBulkDownload([
+  const { store } = useBulkDownload([
     { key: "weather", url: "/test_data/weather_forecast_july092024.json" },
     { key: "mlb", url: "/test_data/mlbScores_July092024_morning.json" },
-    { key: "news", url: "/test_data/news_July112024_afternoon.json" }]);*/
+    { key: "news", url: "/test_data/news_July112024_afternoon.json" }]);
 
   return (
     <div className="App">

@@ -16,7 +16,7 @@ export const MLBScoreBox = ({ gameData, compact = false }) => {
 
     return (
         <div className={`mlb-score-box ${compact ? "compact" : ""}`}>
-            <div className="game-status">{gameStatus}</div>
+            <div className="game-status">{gameStatus.toUpperCase()}</div>
             <div className="scores-container">
                 <div className="team-info away-team">
                     <div className={`sports-logo ${awayTeamAbbrev}`} style={{ backgroundImage: `url(/mlb/${awayTeamAbbrev}.png)` }}></div>

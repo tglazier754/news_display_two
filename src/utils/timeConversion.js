@@ -43,10 +43,10 @@ export const getFormattedDatePostedString = (dateVal) => {
         const hours = (timeDiff / (1000 * 60 * 60));
         const days = (timeDiff / (1000 * 60 * 60 * 24));
 
-        if (hours < 1) return `Published ${minutes} minutes ago`;
-        if (hours > 1 && hours < 24) return `Published ${hours} hours ago`;
+        if (hours < 1) return `Published ${Math.floor(minutes)} minutes ago`;
+        if (hours > 1 && hours < 24) return `Published ${Math.floor(hours)} hours ago`;
         if (Math.floor(days) === 1) return `Published 1 day ago`;
-        return `Published ${days} days ago`;
+        return `Published ${Math.floor(days)} days ago`;
 
     }
     return null;

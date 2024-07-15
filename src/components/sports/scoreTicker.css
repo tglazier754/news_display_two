@@ -1,18 +1,23 @@
-.score-ticker {
+.score-ticker-screen {
     display: flex;
     flex-direction: row;
     max-height: 100%;
     max-width: 100vw;
     overflow: hidden;
 
+    position: absolute;
+    width: 100%;
+
+    transition: all 400ms ease-in-out;
 }
 
-.score-ticker>.league-name-container {
+.score-ticker-screen>.league-name-container {
     flex: 0;
     min-width: 100px;
+    align-content: center;
 }
 
-.score-ticker>.games {
+.score-ticker-screen>.games {
     flex: 1 auto;
     display: flex;
     max-height: 100%;
@@ -28,4 +33,38 @@
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
+}
+
+.score-ticker {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.my-node-enter {
+    transform: translateY(110%);
+}
+
+.my-node-enter-active {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.my-node-enter-done {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.my-node-exit {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.my-node-exit-active {
+    transform: translateY(110%);
+}
+
+.my-node-exit-done {
+    transform: translateY(110%);
 }

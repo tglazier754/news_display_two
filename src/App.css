@@ -1,5 +1,16 @@
+@font-face {
+  font-family: 'Inter';
+  src: url("./fonts/Inter.ttf");
+}
+
 .App {
   text-align: center;
+  font-family: 'Inter';
+  background-color: #f3f3f3;
+  font-smooth: always;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: subpixel-antialiased;
+  letter-spacing: -1px;
 }
 
 .grid-wrapper {
@@ -19,8 +30,6 @@
 }
 
 .weather-container {
-
-  padding: 10px;
   padding-bottom: 1rem;
   overflow: hidden;
   grid-column: 4 / 4;

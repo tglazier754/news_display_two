@@ -30,7 +30,9 @@ const mlbTeams = {
     "tampa-bay-rays": "tb",
     "texas-rangers": "tex",
     "toronto-blue-jays": "tor",
-    "washington-nationals": "wsh"
+    "washington-nationals": "wsh",
+    "national-league-all-stars": "nl",
+    "american-league-all-stars": "al"
 }
 
 

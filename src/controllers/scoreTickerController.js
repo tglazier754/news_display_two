@@ -33,19 +33,21 @@ export const prepScreens = (feeds, maxScreenSize = 4) => {
 const calculateOptimalScreenSize = (gamesCount, maxScreenSize) => {
     let highest = 1;
     let screenSize;
-    if (gamesCount <= maxScreenSize) { return gamesCount.length; }
-    for (var i = maxScreenSize; i > 1; i--) {
-        const leftover = gamesCount % i;
-        const highestLeftover = gamesCount % highest;
+    if (gamesCount <= maxScreenSize) { return gamesCount; }
+    else {
+        for (var i = maxScreenSize; i > 1; i--) {
+            const leftover = gamesCount % i;
+            const highestLeftover = gamesCount % highest;
 
-        if (leftover === 0) {
-            screenSize = i;
-            break;
+            if (leftover === 0) {
+                screenSize = i;
+                break;
+            }
+            if (leftover > highestLeftover) {
+                highest = i;
+            }
         }
-        if (leftover > highestLeftover) {
-            highest = i;
-        }
+        if (!screenSize) screenSize = highest;
+        return screenSize;
     }
-    if (!screenSize) screenSize = highest;
-    return screenSize;
 }

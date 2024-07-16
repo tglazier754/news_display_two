@@ -28,9 +28,8 @@ export const ScoreTicker = ({ mlb }) => {
     const [width, height] = useScreenSize();
     const animationInterval = useRef();
     const activeScreen = useRef(0);
-    const dataOdd = useRef();
     const dataEven = useRef();
-
+    const dataOdd = useRef();
 
     const [animationCounter, setAnimationCounter] = useState(0);
 
@@ -42,37 +41,39 @@ export const ScoreTicker = ({ mlb }) => {
         return prepScreens({ mlb: processedMLBData }, maxScreenCount)
     }, [processedMLBData, width, height]);
 
+
     const isCompact = useMemo(() => { return width < 1000 ? true : false }, [width]);
 
-
-
     useEffect(() => {
-        //timer for changing the active screen
-        //TODO: add proper animation classes here to fade or slide in/out
+        if (screensData) {
+            if (screensData.length > 1) {
+                console.log("update screen");
+                const updateScreen = () => {
 
-        if (screensData && screensData.length > 1) {
-            console.log("update screen");
-            const updateScreen = () => {
+                    const isEven = animationCounter % 2 === 0;
+                    const next = determineNextItem(screensData.length, activeScreen.current);
 
-                const isEven = animationCounter % 2 === 0;
-                const next = determineNextItem(screensData.length, activeScreen.current);
+                    if (isEven) {
+                        dataEven.current = screensData[activeScreen.current];
+                        dataOdd.current = screensData[next];
+                    }
+                    else {
+                        dataOdd.current = screensData[activeScreen.current];
+                        dataEven.current = screensData[next];
+                    }
+                    activeScreen.current = next;
 
-                if (isEven) {
-                    dataEven.current = screensData[activeScreen.current];
-                    dataOdd.current = screensData[next];
+                    setAnimationCounter(animationCounter + 1);
                 }
-                else {
-                    dataOdd.current = screensData[activeScreen.current];
-                    dataEven.current = screensData[next];
-                }
-
-
-
-                activeScreen.current = next;
-
-                setAnimationCounter(animationCounter + 1);
+                animationInterval.current = setTimeout(updateScreen, 5000);
             }
-            animationInterval.current = setTimeout(updateScreen, 5000);
+            else if (screensData.length === 1) {
+                dataEven.current = screensData[0];
+                if (animationCounter === 0) {
+                    //we need to trigger a re-render so that the ref data is picked up
+                    setAnimationCounter(2);
+                }
+            }
         }
         return () => {
             clearTimeout(animationInterval.current);
@@ -81,16 +82,15 @@ export const ScoreTicker = ({ mlb }) => {
     }, [screensData, animationCounter]);
 
 
-    if (!(screensData && screensData.length > 1)) return null;
+    if (!(screensData && screensData.length)) return null;
 
-    if (!(dataEven.current && dataOdd.current)) return null;
+    if (!(dataEven.current)) return null;
 
-    //TODO: set compact to true for the box scores on small screens
-    //TODO: We will need to add a second active screen in order for these transitions to work
-    //giving the score ticker a unique key means that it will be re-drawn on each re-render
+    //TODO: Left-align when there only a few items
+    //giving the score ticker a unique key means that it will be completely re-drawn on each re-render
     return (
         <div className="score-ticker">
-            <CSSTransition in={animationCounter % 2 === 0} classNames="my-node">
+            <CSSTransition in={animationCounter % 2 === 0} timeout={0} classNames="my-node">
                 <div key={`score-ticker-active-screen-${animationCounter}`} className="score-ticker-screen">
                     <div className="league-name-container"><LeagueIcon league={dataEven.current.league} /></div>
                     <div className="games">
@@ -98,15 +98,16 @@ export const ScoreTicker = ({ mlb }) => {
                     </div>
                 </div>
             </CSSTransition>
-
-            <CSSTransition in={animationCounter % 2 !== 0} classNames="my-node">
-                <div key={`score-ticker-active-screen-${animationCounter + 1}`} className="score-ticker-screen">
-                    <div className="league-name-container"><LeagueIcon league={dataOdd.current.league} /></div>
-                    <div className="games">
-                        {dataOdd.current.games.map((game) => { return <MLBScoreBox compact={isCompact} key={`mlb-game-${game.guid}`} gameData={game} /> })}
+            {dataOdd.current ?
+                <CSSTransition in={animationCounter % 2 !== 0} timeout={0} classNames="my-node">
+                    <div key={`score-ticker-active-screen-${animationCounter + 1}`} className="score-ticker-screen">
+                        <div className="league-name-container"><LeagueIcon league={dataOdd.current.league} /></div>
+                        <div className="games">
+                            {dataOdd.current.games.map((game) => { return <MLBScoreBox compact={isCompact} key={`mlb-game-${game.guid}`} gameData={game} /> })}
+                        </div>
                     </div>
-                </div>
-            </CSSTransition>
+                </CSSTransition>
+                : null}
 
         </div>
     )

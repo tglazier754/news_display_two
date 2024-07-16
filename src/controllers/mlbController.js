@@ -20,6 +20,5 @@ export const processMLBData = (data) => {
         });
 
     }
-
     return games;
 }

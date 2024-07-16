@@ -1,0 +1,90 @@
+{
+    "copyright": "Copyright 2024 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+    "totalItems": 1,
+    "totalEvents": 0,
+    "totalGames": 1,
+    "totalGamesInProgress": 0,
+    "dates": [
+        {
+            "date": "2024-07-16",
+            "totalItems": 1,
+            "totalEvents": 0,
+            "totalGames": 1,
+            "totalGamesInProgress": 0,
+            "games": [
+                {
+                    "gamePk": 747298,
+                    "gameGuid": "e5f968e3-58cb-4137-b71a-e7ded3dd5387",
+                    "link": "/api/v1.1/game/747298/feed/live",
+                    "gameType": "A",
+                    "season": "2024",
+                    "gameDate": "2024-07-17T00:00:00Z",
+                    "officialDate": "2024-07-16",
+                    "status": {
+                        "abstractGameState": "Preview",
+                        "codedGameState": "P",
+                        "detailedState": "Pre-Game",
+                        "statusCode": "P",
+                        "startTimeTBD": false,
+                        "abstractGameCode": "P"
+                    },
+                    "teams": {
+                        "away": {
+                            "leagueRecord": {
+                                "wins": 0,
+                                "losses": 0,
+                                "pct": ".000"
+                            },
+                            "score": 0,
+                            "team": {
+                                "id": 160,
+                                "name": "National League All-Stars",
+                                "link": "/api/v1/teams/160"
+                            },
+                            "splitSquad": false
+                        },
+                        "home": {
+                            "leagueRecord": {
+                                "wins": 0,
+                                "losses": 0,
+                                "pct": ".000"
+                            },
+                            "score": 0,
+                            "team": {
+                                "id": 159,
+                                "name": "American League All-Stars",
+                                "link": "/api/v1/teams/159"
+                            },
+                            "splitSquad": false
+                        }
+                    },
+                    "venue": {
+                        "id": 5325,
+                        "name": "Globe Life Field",
+                        "link": "/api/v1/venues/5325"
+                    },
+                    "content": {
+                        "link": "/api/v1/game/747298/content"
+                    },
+                    "gameNumber": 1,
+                    "publicFacing": true,
+                    "doubleHeader": "N",
+                    "gamedayType": "P",
+                    "tiebreaker": "N",
+                    "calendarEventID": "14-747298-2024-07-16",
+                    "seasonDisplay": "2024",
+                    "dayNight": "night",
+                    "description": "94th All-Star Game, in Arlington, TX",
+                    "scheduledInnings": 9,
+                    "reverseHomeAwayStatus": false,
+                    "inningBreakLength": 120,
+                    "seriesDescription": "All-Star Game",
+                    "recordSource": "S",
+                    "ifNecessary": "N",
+                    "ifNecessaryDescription": "Normal Game"
+                }
+            ],
+            "events": []
+        }
+    ]
+}

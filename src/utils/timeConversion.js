@@ -5,7 +5,7 @@ const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", 
 //convenience method to get the desired values from a date string or date object
 export const getDateSplit = (dateVal) => {
 
-    const date = (typeof dateVal === "string") ? new Date(dateVal) : dateVal;
+    const date = (typeof dateVal === "string") ? new Date(prepDateString(dateVal)) : dateVal;
 
     if (date)
         return { year: date.getFullYear(), monthCode: date.getMonth(), month: months[date.getMonth()], dayOfWeekCode: date.getDay(), dayOfMonth: date.getDate(), day: days[date.getDay()] }
@@ -13,7 +13,7 @@ export const getDateSplit = (dateVal) => {
 }
 
 export const getFormattedDateString = (dateVal) => {
-    const date = (typeof dateVal === "string") ? new Date(dateVal) : dateVal;
+    const date = (typeof dateVal === "string") ? new Date(prepDateString(dateVal)) : dateVal;
 
     if (date)
         return `${days[date.getDay()]} ${months[date.getMonth()]} ${date.getDate()}, ${date.getFullYear()}`
@@ -21,7 +21,7 @@ export const getFormattedDateString = (dateVal) => {
 }
 
 export const getFormattedTimeString = (dateVal) => {
-    const date = (typeof dateVal === "string") ? new Date(dateVal) : dateVal;
+    const date = (typeof dateVal === "string") ? new Date(prepDateString(dateVal)) : dateVal;
 
     if (date) {
         const hours = date.getHours();
@@ -34,7 +34,7 @@ export const getFormattedTimeString = (dateVal) => {
 }
 
 export const getFormattedDatePostedString = (dateVal) => {
-    const date = (typeof dateVal === "string") ? new Date(dateVal) : dateVal;
+    const date = (typeof dateVal === "string") ? new Date(prepDateString(dateVal)) : dateVal;
 
     if (date) {
         const currentDate = new Date();
@@ -50,4 +50,13 @@ export const getFormattedDatePostedString = (dateVal) => {
 
     }
     return null;
+}
+
+const prepDateString = (dateString) => {
+    /*this method might cause some problems, but date strings of the format YYYY-MM-DD
+    are given a UTC time zone, and are calculated with the getDay function returning 
+    one day less than expected. Changing the dashes to slashes makes it read correctly for some reason
+    */
+    if (dateString.lastIndexOf("T") !== -1) return dateString;
+    else return dateString.replace(/-/g, '\/');
 }
